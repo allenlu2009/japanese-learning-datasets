@@ -1,0 +1,6339 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "type": "vocabulary",
+    "jlptLevel": "N4",
+    "lastUpdated": "2026-01-11",
+    "itemCount": 668,
+    "corrections": [
+      "Fixed doubled consonants (gemini/claude collaboration 2026-01-11)",
+      "Fixed triple-n errors (gemini/claude collaboration 2026-01-11)",
+      "Converted romanji field to romaji (correct English spelling)"
+    ],
+    "contributors": [
+      "gemini",
+      "claude",
+      "codex"
+    ],
+    "source": "JLPT official vocabulary lists"
+  },
+  "words": [
+    {
+      "word": "踏む",
+      "kana": "ふむ",
+      "meaning": "to step on, to tread on",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fumu"
+      ]
+    },
+    {
+      "word": "～区",
+      "kana": "～く",
+      "meaning": "~ district, ~ ward, ~ borough",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～ku",
+        "~ku"
+      ]
+    },
+    {
+      "word": "すっと",
+      "kana": "すっと",
+      "meaning": "straight, quickly",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suto"
+      ]
+    },
+    {
+      "word": "盗む",
+      "kana": "ぬすむ",
+      "meaning": "to steal; to rob",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nusumu"
+      ]
+    },
+    {
+      "word": "大抵",
+      "kana": "たいてい",
+      "meaning": "generally, usually",
+      "jlptLevel": "N4",
+      "romaji": [
+        "taitei",
+        "taitē",
+        "taite"
+      ]
+    },
+    {
+      "word": "とうとう",
+      "kana": "とうとう",
+      "meaning": "finally, at last",
+      "jlptLevel": "N4",
+      "romaji": [
+        "toutou",
+        "tōtō",
+        "toto"
+      ]
+    },
+    {
+      "word": "ガソリン",
+      "kana": "ガソリン",
+      "meaning": "gasoline, petrol",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gasorin"
+      ]
+    },
+    {
+      "word": "鳴る",
+      "kana": "なる",
+      "meaning": "to sound, to ring (v.i.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naru"
+      ]
+    },
+    {
+      "word": "しっかり",
+      "kana": "しっかり",
+      "meaning": "firmly, steady",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shikari"
+      ]
+    },
+    {
+      "word": "生きる",
+      "kana": "いきる",
+      "meaning": "to live",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ikiru"
+      ]
+    },
+    {
+      "word": "苦い",
+      "kana": "にがい",
+      "meaning": "bitter",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nigai"
+      ]
+    },
+    {
+      "word": "沸く",
+      "kana": "わく",
+      "meaning": "to boil, to grow hot",
+      "jlptLevel": "N4",
+      "romaji": [
+        "waku"
+      ]
+    },
+    {
+      "word": "意見",
+      "kana": "いけん",
+      "meaning": "opinion, view, idea",
+      "jlptLevel": "N4",
+      "romaji": [
+        "iken"
+      ]
+    },
+    {
+      "word": "やはり; やっぱり",
+      "kana": "やはり; やっぱり",
+      "meaning": "as I thought, absolutely",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yahari; yapari"
+      ]
+    },
+    {
+      "word": "漫画",
+      "kana": "まんが",
+      "meaning": "comic (book), cartoon",
+      "jlptLevel": "N4",
+      "romaji": [
+        "manga"
+      ]
+    },
+    {
+      "word": "ステレオ",
+      "kana": "ステレオ",
+      "meaning": "stereo",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sutereo"
+      ]
+    },
+    {
+      "word": "医学",
+      "kana": "いがく",
+      "meaning": "medical science",
+      "jlptLevel": "N4",
+      "romaji": [
+        "igaku"
+      ]
+    },
+    {
+      "word": "テキスト",
+      "kana": "テキスト",
+      "meaning": "text; text book",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tekisuto"
+      ]
+    },
+    {
+      "word": "～月",
+      "kana": "～つき",
+      "meaning": "month",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～tsuki",
+        "~tsuki"
+      ]
+    },
+    {
+      "word": "折る",
+      "kana": "おる",
+      "meaning": "to snap, to break; to bend",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oru"
+      ]
+    },
+    {
+      "word": "～会",
+      "kana": "～かい",
+      "meaning": "~ meeting",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～kai",
+        "~kai"
+      ]
+    },
+    {
+      "word": "うかがう",
+      "kana": "うかがう",
+      "meaning": "to ask",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ukagau"
+      ]
+    },
+    {
+      "word": "聞こえる",
+      "kana": "きこえる",
+      "meaning": "to be heard, to be audible",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kikoeru"
+      ]
+    },
+    {
+      "word": "僕",
+      "kana": "ぼく",
+      "meaning": "I (used by men towards those of equal or lower status)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "boku"
+      ]
+    },
+    {
+      "word": "必ず",
+      "kana": "かならず",
+      "meaning": "surely, certainly",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kanarazu"
+      ]
+    },
+    {
+      "word": "壊す",
+      "kana": "こわす",
+      "meaning": "to break, to break down",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kowasu"
+      ]
+    },
+    {
+      "word": "怒る",
+      "kana": "おこる",
+      "meaning": "to get angry; to scold angrily",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okoru"
+      ]
+    },
+    {
+      "word": "床屋",
+      "kana": "とこや",
+      "meaning": "barber's (shop)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tokoya"
+      ]
+    },
+    {
+      "word": "オートバイ",
+      "kana": "オートバイ",
+      "meaning": "motorcycle (lit: auto-bi(ke))",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ootobai"
+      ]
+    },
+    {
+      "word": "運動",
+      "kana": "うんどうする",
+      "meaning": "exercise",
+      "jlptLevel": "N4",
+      "romaji": [
+        "undousuru"
+      ]
+    },
+    {
+      "word": "止む",
+      "kana": "やむ",
+      "meaning": "to cease, to stop",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yamu"
+      ]
+    },
+    {
+      "word": "もし",
+      "kana": "もし",
+      "meaning": "if",
+      "jlptLevel": "N4",
+      "romaji": [
+        "moshi"
+      ]
+    },
+    {
+      "word": "表",
+      "kana": "おもて",
+      "meaning": "surface; front; outside",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omote"
+      ]
+    },
+    {
+      "word": "大学生",
+      "kana": "だいがくせい",
+      "meaning": "college student, university student",
+      "jlptLevel": "N4",
+      "romaji": [
+        "daigakusei",
+        "daigakusē",
+        "daigakuse"
+      ]
+    },
+    {
+      "word": "運転手",
+      "kana": "うんてんしゅ",
+      "meaning": "driver (by occupation)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "untenshu"
+      ]
+    },
+    {
+      "word": "予習",
+      "kana": "よしゅう",
+      "meaning": "preparation of lessons (for class)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yoshuu",
+        "yoshū",
+        "yoshu"
+      ]
+    },
+    {
+      "word": "心配",
+      "kana": "しんぱいする",
+      "meaning": "worry, concern",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shinpaisuru"
+      ]
+    },
+    {
+      "word": "別",
+      "kana": "べつ",
+      "meaning": "distinction, different",
+      "jlptLevel": "N4",
+      "romaji": [
+        "betsu"
+      ]
+    },
+    {
+      "word": "非常に",
+      "kana": "ひじょうに",
+      "meaning": "extremely; very",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hijouni",
+        "hijōni",
+        "hijoni"
+      ]
+    },
+    {
+      "word": "お宅",
+      "kana": "おたく",
+      "meaning": "(someone else's) house; home -- polite word for 家 (いえ) --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "otaku"
+      ]
+    },
+    {
+      "word": "柔らかい",
+      "kana": "やわらかい",
+      "meaning": "soft (in reference to texture), tender",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yawarakai"
+      ]
+    },
+    {
+      "word": "拾う",
+      "kana": "ひろう",
+      "meaning": "to pick up (something), to find",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hirou",
+        "hirō",
+        "hiro"
+      ]
+    },
+    {
+      "word": "～ございます",
+      "kana": "～ございます",
+      "meaning": "to be (polite), to exist",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～gozaimasu",
+        "~gozaimasu"
+      ]
+    },
+    {
+      "word": "気",
+      "kana": "き",
+      "meaning": "spirit, mood",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ki"
+      ]
+    },
+    {
+      "word": "比べる",
+      "kana": "くらべる",
+      "meaning": "to compare",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kuraberu"
+      ]
+    },
+    {
+      "word": "ほとんど",
+      "kana": "ほとんど",
+      "meaning": "mostly, almost",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hotondo"
+      ]
+    },
+    {
+      "word": "つもり",
+      "kana": "つもり",
+      "meaning": "intention, plan",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsumori"
+      ]
+    },
+    {
+      "word": "郊外",
+      "kana": "こうがい",
+      "meaning": "suburb, outskirts",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kougai",
+        "kōgai",
+        "kogai"
+      ]
+    },
+    {
+      "word": "だめ",
+      "kana": "だめ",
+      "meaning": "useless, no good, hopeless",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dame"
+      ]
+    },
+    {
+      "word": "売り場",
+      "kana": "うりば",
+      "meaning": "place where things are sold",
+      "jlptLevel": "N4",
+      "romaji": [
+        "uriba"
+      ]
+    },
+    {
+      "word": "正月",
+      "kana": "しょうがつ",
+      "meaning": "New Year, New Year's Day",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shougatsu",
+        "shōgatsu",
+        "shogatsu"
+      ]
+    },
+    {
+      "word": "規則",
+      "kana": "きそく",
+      "meaning": "rule, regulation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kisoku"
+      ]
+    },
+    {
+      "word": "うん",
+      "kana": "うん",
+      "meaning": "yes (informal), all right (ok)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "un"
+      ]
+    },
+    {
+      "word": "発音",
+      "kana": "はつおん",
+      "meaning": "pronunciation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hatsuon"
+      ]
+    },
+    {
+      "word": "焼く",
+      "kana": "やく",
+      "meaning": "to bake, to grill",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yaku"
+      ]
+    },
+    {
+      "word": "屋上",
+      "kana": "おくじょう",
+      "meaning": "rooftop",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okujou",
+        "okujō",
+        "okujo"
+      ]
+    },
+    {
+      "word": "失礼",
+      "kana": "しつれい",
+      "meaning": "discourtesy, impoliteness; Excuse me",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shitsurei",
+        "shitsurē",
+        "shitsure"
+      ]
+    },
+    {
+      "word": "ごみ",
+      "kana": "ごみ",
+      "meaning": "trash, garbage",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gomi"
+      ]
+    },
+    {
+      "word": "アフリカ",
+      "kana": "アフリカ",
+      "meaning": "Africa",
+      "jlptLevel": "N4",
+      "romaji": [
+        "afurika"
+      ]
+    },
+    {
+      "word": "点",
+      "kana": "てん",
+      "meaning": "mark, score, grade; point, dot",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ten"
+      ]
+    },
+    {
+      "word": "一生懸命",
+      "kana": "いっしょうけんめい",
+      "meaning": "very hard (as in to work hard), with utmost effort",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ishoukenmei",
+        "ishōkenmei",
+        "ishokenmei",
+        "ishoukenmē",
+        "ishoukenme"
+      ]
+    },
+    {
+      "word": "今度",
+      "kana": "こんど",
+      "meaning": "now, this time, near future, one of these days, next time",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kondo"
+      ]
+    },
+    {
+      "word": "機会",
+      "kana": "きかい",
+      "meaning": "chance, opportunity",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kikai"
+      ]
+    },
+    {
+      "word": "建てる",
+      "kana": "たてる",
+      "meaning": "to build",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tateru"
+      ]
+    },
+    {
+      "word": "複雑",
+      "kana": "ふくざつ",
+      "meaning": "complexity, complication",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fukuzatsu"
+      ]
+    },
+    {
+      "word": "彼",
+      "kana": "かれ",
+      "meaning": "he, boyfriend",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kare"
+      ]
+    },
+    {
+      "word": "いらっしゃる",
+      "kana": "いらっしゃる",
+      "meaning": "-- honorific expression for いく, くる, and いる --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "irasharu"
+      ]
+    },
+    {
+      "word": "布団",
+      "kana": "ふとん",
+      "meaning": "futon",
+      "jlptLevel": "N4",
+      "romaji": [
+        "futon"
+      ]
+    },
+    {
+      "word": "大事",
+      "kana": "だいじ",
+      "meaning": "important, valuable, serious matter",
+      "jlptLevel": "N4",
+      "romaji": [
+        "daiji"
+      ]
+    },
+    {
+      "word": "贈り物",
+      "kana": "おくりもの",
+      "meaning": "a gift; a present",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okurimono"
+      ]
+    },
+    {
+      "word": "泥棒",
+      "kana": "どろぼう",
+      "meaning": "thief; burglar",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dorobou",
+        "dorobō",
+        "dorobo"
+      ]
+    },
+    {
+      "word": "～製",
+      "kana": "～せい",
+      "meaning": "made in ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～sei",
+        "～sē",
+        "～se",
+        "~sei",
+        "~sē",
+        "~se"
+      ]
+    },
+    {
+      "word": "注意",
+      "kana": "ちゅうい",
+      "meaning": "caution, attention",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chuui",
+        "chūi",
+        "chui"
+      ]
+    },
+    {
+      "word": "台風",
+      "kana": "たいふう",
+      "meaning": "typhoon",
+      "jlptLevel": "N4",
+      "romaji": [
+        "taifuu",
+        "taifū",
+        "taifu"
+      ]
+    },
+    {
+      "word": "日",
+      "kana": "ひ",
+      "meaning": "sun, sunshine, day",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hi"
+      ]
+    },
+    {
+      "word": "～軒",
+      "kana": "～けん",
+      "meaning": "counter for houses",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～ken",
+        "~ken"
+      ]
+    },
+    {
+      "word": "そう",
+      "kana": "そう",
+      "meaning": "really, (is that) so; yes, right",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sou",
+        "sō",
+        "so"
+      ]
+    },
+    {
+      "word": "通る",
+      "kana": "とおる",
+      "meaning": "to pass (by), to go through",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tooru",
+        "tōru",
+        "toru"
+      ]
+    },
+    {
+      "word": "過ぎる",
+      "kana": "すぎる",
+      "meaning": "to exceed, to go beyond",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sugiru"
+      ]
+    },
+    {
+      "word": "レポート; リポート",
+      "kana": "レポート; リポート",
+      "meaning": "report",
+      "jlptLevel": "N4",
+      "romaji": [
+        "repooto; ripooto"
+      ]
+    },
+    {
+      "word": "葉",
+      "kana": "は",
+      "meaning": "leaf",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ha"
+      ]
+    },
+    {
+      "word": "必要",
+      "kana": "ひつよう",
+      "meaning": "necessary",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hitsuyou",
+        "hitsuyō",
+        "hitsuyo"
+      ]
+    },
+    {
+      "word": "課長",
+      "kana": "かちょう",
+      "meaning": "section manager",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kachou",
+        "kachō",
+        "kacho"
+      ]
+    },
+    {
+      "word": "地震",
+      "kana": "じしん",
+      "meaning": "earthquake",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jishin"
+      ]
+    },
+    {
+      "word": "すると",
+      "kana": "すると",
+      "meaning": "and, then",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suruto"
+      ]
+    },
+    {
+      "word": "止める",
+      "kana": "やめる",
+      "meaning": "to end, to stop",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yameru"
+      ]
+    },
+    {
+      "word": "ガラス",
+      "kana": "ガラス",
+      "meaning": "glass, pane",
+      "jlptLevel": "N4",
+      "romaji": [
+        "garasu"
+      ]
+    },
+    {
+      "word": "～学部",
+      "kana": "～がくぶ",
+      "meaning": "department of a university",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～gakubu",
+        "~gakubu"
+      ]
+    },
+    {
+      "word": "厳しい",
+      "kana": "きびしい",
+      "meaning": "hard; rigorous; strict",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kibishii"
+      ]
+    },
+    {
+      "word": "エスカレーター",
+      "kana": "エスカレーター",
+      "meaning": "escalator",
+      "jlptLevel": "N4",
+      "romaji": [
+        "esukareetaa"
+      ]
+    },
+    {
+      "word": "人口",
+      "kana": "じんこう",
+      "meaning": "population",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jinkou"
+      ]
+    },
+    {
+      "word": "月",
+      "kana": "つき",
+      "meaning": "moon",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuki"
+      ]
+    },
+    {
+      "word": "絹",
+      "kana": "きぬ",
+      "meaning": "silk",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kinu"
+      ]
+    },
+    {
+      "word": "ちっとも",
+      "kana": "ちっとも",
+      "meaning": "not at all (neg. verb)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chitomo"
+      ]
+    },
+    {
+      "word": "深い",
+      "kana": "ふかい",
+      "meaning": "deep, profound",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fukai"
+      ]
+    },
+    {
+      "word": "壊れる",
+      "kana": "こわれる",
+      "meaning": "to be broken, to break",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kowareru"
+      ]
+    },
+    {
+      "word": "揺れる",
+      "kana": "ゆれる",
+      "meaning": "to shake, to sway",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yureru"
+      ]
+    },
+    {
+      "word": "落る",
+      "kana": "おちる",
+      "meaning": "to fall, to drop",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ochiru"
+      ]
+    },
+    {
+      "word": "できるだけ",
+      "kana": "できるだけ",
+      "meaning": "if at all possible, as much as possible",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dekirudake"
+      ]
+    },
+    {
+      "word": "悲しい",
+      "kana": "かなしい",
+      "meaning": "sad, sorrowful",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kanashii"
+      ]
+    },
+    {
+      "word": "中学校",
+      "kana": "ちゅうがっこう",
+      "meaning": "junior high school pupil",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chuugakou",
+        "chuugakō",
+        "chuugako",
+        "chūgakou",
+        "chugakou"
+      ]
+    },
+    {
+      "word": "ガス",
+      "kana": "ガス",
+      "meaning": "gas",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gasu"
+      ]
+    },
+    {
+      "word": "祈る",
+      "kana": "いのる",
+      "meaning": "to pray; to wish",
+      "jlptLevel": "N4",
+      "romaji": [
+        "inoru"
+      ]
+    },
+    {
+      "word": "盛ん",
+      "kana": "さかん",
+      "meaning": "prosperous, active, thriving",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sakan"
+      ]
+    },
+    {
+      "word": "アルバイト",
+      "kana": "アルバイト",
+      "meaning": "part-time job",
+      "jlptLevel": "N4",
+      "romaji": [
+        "arubaito"
+      ]
+    },
+    {
+      "word": "起こす",
+      "kana": "おこす",
+      "meaning": "to wake (someone) up",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okosu"
+      ]
+    },
+    {
+      "word": "致す",
+      "kana": "いたす",
+      "meaning": "-- extra-modest expression for する --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "itasu"
+      ]
+    },
+    {
+      "word": "噛む",
+      "kana": "かむ",
+      "meaning": "to bite, to chew",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kamu"
+      ]
+    },
+    {
+      "word": "赤ちゃん",
+      "kana": "あかちゃん",
+      "meaning": "baby, infant",
+      "jlptLevel": "N4",
+      "romaji": [
+        "akachan"
+      ]
+    },
+    {
+      "word": "浅い",
+      "kana": "あさい",
+      "meaning": "shallow, superficial",
+      "jlptLevel": "N4",
+      "romaji": [
+        "asai"
+      ]
+    },
+    {
+      "word": "うそ",
+      "kana": "うそ",
+      "meaning": "lie",
+      "jlptLevel": "N4",
+      "romaji": [
+        "uso"
+      ]
+    },
+    {
+      "word": "小説",
+      "kana": "しょうせつ",
+      "meaning": "novel",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shousetsu",
+        "shōsetsu",
+        "shosetsu"
+      ]
+    },
+    {
+      "word": "親",
+      "kana": "おや",
+      "meaning": "a parent",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oya"
+      ]
+    },
+    {
+      "word": "それに",
+      "kana": "それに",
+      "meaning": "moreover; besides",
+      "jlptLevel": "N4",
+      "romaji": [
+        "soreni"
+      ]
+    },
+    {
+      "word": "西洋",
+      "kana": "せいよう",
+      "meaning": "the West, Western countries",
+      "jlptLevel": "N4",
+      "romaji": [
+        "seiyou",
+        "seiyō",
+        "seiyo",
+        "sēyou",
+        "seyou"
+      ]
+    },
+    {
+      "word": "思う",
+      "kana": "おもう",
+      "meaning": "to think, to feel",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omou",
+        "omō",
+        "omo"
+      ]
+    },
+    {
+      "word": "パート (タイム)",
+      "kana": "パート (タイム)",
+      "meaning": "part time (esp. female part time employees)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "paato (taimu)"
+      ]
+    },
+    {
+      "word": "時代",
+      "kana": "じだい",
+      "meaning": "age, period, epoch, era",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jidai"
+      ]
+    },
+    {
+      "word": "申し上げる",
+      "kana": "もうしあげる",
+      "meaning": "(humble)to say, to tell",
+      "jlptLevel": "N4",
+      "romaji": [
+        "moushiageru",
+        "mōshiageru",
+        "moshiageru"
+      ]
+    },
+    {
+      "word": "～式",
+      "kana": "～しき",
+      "meaning": "~ ceremony; ~ style",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～shiki",
+        "~shiki"
+      ]
+    },
+    {
+      "word": "出席",
+      "kana": "しゅっせきする",
+      "meaning": "attendance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shusekisuru"
+      ]
+    },
+    {
+      "word": "～家",
+      "kana": "～か",
+      "meaning": "person who is specialized in ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～ka",
+        "~ka"
+      ]
+    },
+    {
+      "word": "迎える",
+      "kana": "むかえる",
+      "meaning": "to welcome; to meet; to greet",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mukaeru"
+      ]
+    },
+    {
+      "word": "触る",
+      "kana": "さわる",
+      "meaning": "to touch, to feel",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sawaru"
+      ]
+    },
+    {
+      "word": "建て",
+      "kana": "～だて",
+      "meaning": "~ storied, separate housing",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～date",
+        "~date"
+      ]
+    },
+    {
+      "word": "社長",
+      "kana": "しゃちょう",
+      "meaning": "president of a company",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shachou",
+        "shachō",
+        "shacho"
+      ]
+    },
+    {
+      "word": "動物園",
+      "kana": "どうぶつえん",
+      "meaning": "zoo",
+      "jlptLevel": "N4",
+      "romaji": [
+        "doubutsuen",
+        "dōbutsuen",
+        "dobutsuen"
+      ]
+    },
+    {
+      "word": "捕まえる",
+      "kana": "つかまえる",
+      "meaning": "to catch, to arrest",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsukamaeru"
+      ]
+    },
+    {
+      "word": "季節",
+      "kana": "きせつ",
+      "meaning": "season (in reference to weather)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kisetsu"
+      ]
+    },
+    {
+      "word": "寄る",
+      "kana": "よる",
+      "meaning": "to stop by",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yoru"
+      ]
+    },
+    {
+      "word": "決まる",
+      "kana": "きまる",
+      "meaning": "to be set; fixed (v.i.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kimaru"
+      ]
+    },
+    {
+      "word": "開く",
+      "kana": "ひらく",
+      "meaning": "to open; to hold (an event)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hiraku"
+      ]
+    },
+    {
+      "word": "逃げる",
+      "kana": "にげる",
+      "meaning": "to escape, to run away",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nigeru"
+      ]
+    },
+    {
+      "word": "だから",
+      "kana": "だから",
+      "meaning": "so; therefore",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dakara"
+      ]
+    },
+    {
+      "word": "残念",
+      "kana": "ざんねん",
+      "meaning": "regret; regrettable",
+      "jlptLevel": "N4",
+      "romaji": [
+        "zannen"
+      ]
+    },
+    {
+      "word": "畳",
+      "kana": "たたみ",
+      "meaning": "tatami mat (Japanese straw mat)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tatami"
+      ]
+    },
+    {
+      "word": "丁寧",
+      "kana": "ていねい",
+      "meaning": "polite, courteous, careful",
+      "jlptLevel": "N4",
+      "romaji": [
+        "teinei",
+        "tēnē",
+        "tene"
+      ]
+    },
+    {
+      "word": "地理",
+      "kana": "ちり",
+      "meaning": "geography",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chiri"
+      ]
+    },
+    {
+      "word": "さっき",
+      "kana": "さっき",
+      "meaning": "a little while ago",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saki"
+      ]
+    },
+    {
+      "word": "怖い",
+      "kana": "こわい",
+      "meaning": "scary, frightening",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kowai"
+      ]
+    },
+    {
+      "word": "包む",
+      "kana": "つつむ",
+      "meaning": "to wrap, to cover",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsutsumu"
+      ]
+    },
+    {
+      "word": "なるべく",
+      "kana": "なるべく",
+      "meaning": "if possible, as much as possible",
+      "jlptLevel": "N4",
+      "romaji": [
+        "narubeku"
+      ]
+    },
+    {
+      "word": "無理",
+      "kana": "むり",
+      "meaning": "unreasonable, impossible",
+      "jlptLevel": "N4",
+      "romaji": [
+        "muri"
+      ]
+    },
+    {
+      "word": "サンドイッチ",
+      "kana": "サンドイッチ",
+      "meaning": "sandwich",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sandoitchi"
+      ]
+    },
+    {
+      "word": "会議室",
+      "kana": "かいぎしつ",
+      "meaning": "conference room",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaigishitsu"
+      ]
+    },
+    {
+      "word": "品物",
+      "kana": "しなもの",
+      "meaning": "goods",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shinamono"
+      ]
+    },
+    {
+      "word": "人形",
+      "kana": "にんぎょう",
+      "meaning": "doll, figure",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ningyou",
+        "ningyō",
+        "ningyo"
+      ]
+    },
+    {
+      "word": "利用",
+      "kana": "りよう",
+      "meaning": "use, utilization",
+      "jlptLevel": "N4",
+      "romaji": [
+        "riyou",
+        "riyō",
+        "riyo"
+      ]
+    },
+    {
+      "word": "飾る",
+      "kana": "かざる",
+      "meaning": "to decorate, to adorn",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kazaru"
+      ]
+    },
+    {
+      "word": "止める",
+      "kana": "とめる",
+      "meaning": "to stop (something)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tomeru"
+      ]
+    },
+    {
+      "word": "恥ずかしい",
+      "kana": "はずかしい",
+      "meaning": "ashamed, embarrassed",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hazukashii"
+      ]
+    },
+    {
+      "word": "いくら～ても",
+      "kana": "いくら～ても",
+      "meaning": "however much one may ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ikura～temo",
+        "ikura~temo"
+      ]
+    },
+    {
+      "word": "用事",
+      "kana": "ようじ",
+      "meaning": "business to take care of; tasks; errands",
+      "jlptLevel": "N4",
+      "romaji": [
+        "youji",
+        "yōji",
+        "yoji"
+      ]
+    },
+    {
+      "word": "ビル",
+      "kana": "ビル",
+      "meaning": "(abbr.) building",
+      "jlptLevel": "N4",
+      "romaji": [
+        "biru"
+      ]
+    },
+    {
+      "word": "けんかする",
+      "kana": "けんかする",
+      "meaning": "quarrel",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kenkasuru"
+      ]
+    },
+    {
+      "word": "頑張る",
+      "kana": "がんばる",
+      "meaning": "to try one's best, to try hard, to persist",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ganbaru"
+      ]
+    },
+    {
+      "word": "投げる",
+      "kana": "なげる",
+      "meaning": "to pitch, to cast away",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nageru"
+      ]
+    },
+    {
+      "word": "故障",
+      "kana": "こしょうする",
+      "meaning": "breakdown",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koshousuru",
+        "koshōsuru",
+        "koshosuru"
+      ]
+    },
+    {
+      "word": "力",
+      "kana": "ちから",
+      "meaning": "strength, power",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chikara"
+      ]
+    },
+    {
+      "word": "受ける",
+      "kana": "うける",
+      "meaning": "to take (an examination, interview, etc.); to receive",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ukeru"
+      ]
+    },
+    {
+      "word": "気分",
+      "kana": "きぶん",
+      "meaning": "feeling, mood",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kibun"
+      ]
+    },
+    {
+      "word": "間違える",
+      "kana": "まちがえる",
+      "meaning": "to make a mistake",
+      "jlptLevel": "N4",
+      "romaji": [
+        "machigaeru"
+      ]
+    },
+    {
+      "word": "そんな",
+      "kana": "そんな",
+      "meaning": "such, like that, that sort of",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sonna"
+      ]
+    },
+    {
+      "word": "星",
+      "kana": "ほし",
+      "meaning": "star",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hoshi"
+      ]
+    },
+    {
+      "word": "場合",
+      "kana": "ばあい",
+      "meaning": "case, situation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "baai"
+      ]
+    },
+    {
+      "word": "やっと",
+      "kana": "やっと",
+      "meaning": "at last, finally",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yato"
+      ]
+    },
+    {
+      "word": "足りる",
+      "kana": "たりる",
+      "meaning": "to be sufficient; to be enough",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tariru"
+      ]
+    },
+    {
+      "word": "行う",
+      "kana": "おこなう",
+      "meaning": "to carry out; to conduct (typically used in written language)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okonau"
+      ]
+    },
+    {
+      "word": "ぶどう",
+      "kana": "ぶどう",
+      "meaning": "grapes",
+      "jlptLevel": "N4",
+      "romaji": [
+        "budou",
+        "budō",
+        "budo"
+      ]
+    },
+    {
+      "word": "無くなる",
+      "kana": "なくなる",
+      "meaning": "to disappear, to get lost",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nakunaru"
+      ]
+    },
+    {
+      "word": "準備",
+      "kana": "じゅんびする",
+      "meaning": "prepare",
+      "jlptLevel": "N4",
+      "romaji": [
+        "junbisuru"
+      ]
+    },
+    {
+      "word": "世界",
+      "kana": "せかい",
+      "meaning": "world",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sekai"
+      ]
+    },
+    {
+      "word": "住所",
+      "kana": "じゅうしょ",
+      "meaning": "address; place of residence",
+      "jlptLevel": "N4",
+      "romaji": [
+        "juusho",
+        "jūsho",
+        "jusho"
+      ]
+    },
+    {
+      "word": "再来月",
+      "kana": "さらいげつ",
+      "meaning": "the month after next",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saraigetsu"
+      ]
+    },
+    {
+      "word": "林",
+      "kana": "はやし",
+      "meaning": "woods, forest",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hayashi"
+      ]
+    },
+    {
+      "word": "倍",
+      "kana": "ばい",
+      "meaning": "double",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bai"
+      ]
+    },
+    {
+      "word": "痩せる",
+      "kana": "やせる",
+      "meaning": "to lose weight",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yaseru"
+      ]
+    },
+    {
+      "word": "線",
+      "kana": "せん",
+      "meaning": "line, wire",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sen"
+      ]
+    },
+    {
+      "word": "戦争",
+      "kana": "せんそう",
+      "meaning": "war",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sensou",
+        "sensō",
+        "senso"
+      ]
+    },
+    {
+      "word": "決める",
+      "kana": "きめる",
+      "meaning": "to decide (v.t.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kimeru"
+      ]
+    },
+    {
+      "word": "調べる",
+      "kana": "しらべる",
+      "meaning": "to check; to look up; to inquire; to search",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shiraberu"
+      ]
+    },
+    {
+      "word": "寝坊",
+      "kana": "ねぼう",
+      "meaning": "sleeping in late",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nebou",
+        "nebō",
+        "nebo"
+      ]
+    },
+    {
+      "word": "パパ",
+      "kana": "パパ",
+      "meaning": "papa, daddy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "papa"
+      ]
+    },
+    {
+      "word": "光る",
+      "kana": "ひかる",
+      "meaning": "to shine, to glitter",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hikaru"
+      ]
+    },
+    {
+      "word": "夫",
+      "kana": "おっと",
+      "meaning": "husband",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oto"
+      ]
+    },
+    {
+      "word": "雲",
+      "kana": "くも",
+      "meaning": "cloud",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kumo"
+      ]
+    },
+    {
+      "word": "坂",
+      "kana": "さか",
+      "meaning": "slope, hill",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saka"
+      ]
+    },
+    {
+      "word": "～(て) しまう",
+      "kana": "～(て) しまう",
+      "meaning": "to end up ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～(te) shimau",
+        "~(te) shimau"
+      ]
+    },
+    {
+      "word": "飛行場",
+      "kana": "ひこうじょう",
+      "meaning": "airport",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hikoujou",
+        "hikōjō",
+        "hikojo"
+      ]
+    },
+    {
+      "word": "柔道",
+      "kana": "じゅうどう",
+      "meaning": "judo",
+      "jlptLevel": "N4",
+      "romaji": [
+        "juudou",
+        "juudō",
+        "juudo",
+        "jūdou",
+        "judou"
+      ]
+    },
+    {
+      "word": "決して",
+      "kana": "けっして",
+      "meaning": "never",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keshite"
+      ]
+    },
+    {
+      "word": "事務所",
+      "kana": "じむしょ",
+      "meaning": "office",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jimusho"
+      ]
+    },
+    {
+      "word": "連絡",
+      "kana": "れんらく",
+      "meaning": "communication, contact, connection",
+      "jlptLevel": "N4",
+      "romaji": [
+        "renraku"
+      ]
+    },
+    {
+      "word": "小学校",
+      "kana": "しょうがっこう",
+      "meaning": "elementary school",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shougakou",
+        "shōgakō",
+        "shogako"
+      ]
+    },
+    {
+      "word": "客",
+      "kana": "きゃく",
+      "meaning": "guest, customer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyaku"
+      ]
+    },
+    {
+      "word": "昔",
+      "kana": "むかし",
+      "meaning": "old days; past",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mukashi"
+      ]
+    },
+    {
+      "word": "美しい",
+      "kana": "うつくしい",
+      "meaning": "beautiful, lovely",
+      "jlptLevel": "N4",
+      "romaji": [
+        "utsukushii"
+      ]
+    },
+    {
+      "word": "捨てる",
+      "kana": "すてる",
+      "meaning": "throw away (trash), dump, discard",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suteru"
+      ]
+    },
+    {
+      "word": "なさる",
+      "kana": "なさる",
+      "meaning": "-- honorific expression for する --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nasaru"
+      ]
+    },
+    {
+      "word": "事",
+      "kana": "こと",
+      "meaning": "thing(s), matter(s), fact",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koto"
+      ]
+    },
+    {
+      "word": "どんどん",
+      "kana": "どんどん",
+      "meaning": "quickly and steadily; at a rapid pace",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dondon"
+      ]
+    },
+    {
+      "word": "試合",
+      "kana": "しあい",
+      "meaning": "match, game, competition",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shiai"
+      ]
+    },
+    {
+      "word": "適当",
+      "kana": "てきとう",
+      "meaning": "fitness, suitability",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tekitou",
+        "tekitō",
+        "tekito"
+      ]
+    },
+    {
+      "word": "素晴らしい",
+      "kana": "すばらしい",
+      "meaning": "wonderful; terrific",
+      "jlptLevel": "N4",
+      "romaji": [
+        "subarashii"
+      ]
+    },
+    {
+      "word": "美術館",
+      "kana": "びじゅつかん",
+      "meaning": "art gallery, art museum",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bijutsukan"
+      ]
+    },
+    {
+      "word": "文法",
+      "kana": "ぶんぽう",
+      "meaning": "grammar",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bunpou",
+        "bunpō",
+        "bunpo"
+      ]
+    },
+    {
+      "word": "終わり",
+      "kana": "おわり",
+      "meaning": "end",
+      "jlptLevel": "N4",
+      "romaji": [
+        "owari"
+      ]
+    },
+    {
+      "word": "壁",
+      "kana": "かべ",
+      "meaning": "wall",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kabe"
+      ]
+    },
+    {
+      "word": "一度",
+      "kana": "いちど",
+      "meaning": "once, one time",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ichido"
+      ]
+    },
+    {
+      "word": "お礼",
+      "kana": "おれい",
+      "meaning": "expression of gratitude; thanking; gift of appreciation; bow",
+      "jlptLevel": "N4",
+      "romaji": [
+        "orei",
+        "orē",
+        "ore"
+      ]
+    },
+    {
+      "word": "親切",
+      "kana": "しんせつ",
+      "meaning": "kindness",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shinsetsu"
+      ]
+    },
+    {
+      "word": "知らせる",
+      "kana": "しらせる",
+      "meaning": "to notify",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shiraseru"
+      ]
+    },
+    {
+      "word": "歯医者",
+      "kana": "はいしゃ",
+      "meaning": "dentist",
+      "jlptLevel": "N4",
+      "romaji": [
+        "haisha"
+      ]
+    },
+    {
+      "word": "熱心",
+      "kana": "ねっしん",
+      "meaning": "enthusiasm",
+      "jlptLevel": "N4",
+      "romaji": [
+        "neshin"
+      ]
+    },
+    {
+      "word": "始める",
+      "kana": "はじめる",
+      "meaning": "to start, to begin",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hajimeru"
+      ]
+    },
+    {
+      "word": "もらう",
+      "kana": "もらう",
+      "meaning": "to receive",
+      "jlptLevel": "N4",
+      "romaji": [
+        "morau"
+      ]
+    },
+    {
+      "word": "泣く",
+      "kana": "なく",
+      "meaning": "to cry",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naku"
+      ]
+    },
+    {
+      "word": "治る",
+      "kana": "なおる",
+      "meaning": "to get better; to recover from illness (v.i.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naoru"
+      ]
+    },
+    {
+      "word": "熱",
+      "kana": "ねつ",
+      "meaning": "fever, temperature",
+      "jlptLevel": "N4",
+      "romaji": [
+        "netsu"
+      ]
+    },
+    {
+      "word": "お祭り",
+      "kana": "おまつり",
+      "meaning": "festival",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omatsuri"
+      ]
+    },
+    {
+      "word": "水道",
+      "kana": "すいどう",
+      "meaning": "water service, water line",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suidou",
+        "suidō",
+        "suido"
+      ]
+    },
+    {
+      "word": "匂い",
+      "kana": "におい",
+      "meaning": "odor, smell",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nioi"
+      ]
+    },
+    {
+      "word": "ベル",
+      "kana": "ベル",
+      "meaning": "bell",
+      "jlptLevel": "N4",
+      "romaji": [
+        "beru"
+      ]
+    },
+    {
+      "word": "赤ん坊",
+      "kana": "あかんぼう",
+      "meaning": "baby",
+      "jlptLevel": "N4",
+      "romaji": [
+        "akanbou",
+        "akanbō",
+        "akanbo"
+      ]
+    },
+    {
+      "word": "おかしい",
+      "kana": "おかしい",
+      "meaning": "strange; odd; funny",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okashii"
+      ]
+    },
+    {
+      "word": "事故",
+      "kana": "じこ",
+      "meaning": "accident",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jiko"
+      ]
+    },
+    {
+      "word": "変",
+      "kana": "へん",
+      "meaning": "strange, odd",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hen"
+      ]
+    },
+    {
+      "word": "辞典",
+      "kana": "じてん",
+      "meaning": "encyclopedia, reference book",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jiten"
+      ]
+    },
+    {
+      "word": "残る",
+      "kana": "のこる",
+      "meaning": "to remain (v.i.), to be left",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nokoru"
+      ]
+    },
+    {
+      "word": "立てる",
+      "kana": "たてる",
+      "meaning": "to stand (something) up, to erect (something)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tateru"
+      ]
+    },
+    {
+      "word": "くれる",
+      "kana": "くれる",
+      "meaning": "to give, to do for",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kureru"
+      ]
+    },
+    {
+      "word": "～員",
+      "kana": "～いん",
+      "meaning": "member of ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～in",
+        "~in"
+      ]
+    },
+    {
+      "word": "原因",
+      "kana": "げんいん",
+      "meaning": "cause, origin, source",
+      "jlptLevel": "N4",
+      "romaji": [
+        "genin"
+      ]
+    },
+    {
+      "word": "驚く",
+      "kana": "おどろく",
+      "meaning": "to be surprised, to be astonished",
+      "jlptLevel": "N4",
+      "romaji": [
+        "odoroku"
+      ]
+    },
+    {
+      "word": "いただく",
+      "kana": "いただく",
+      "meaning": "-- extra-modest expression for たべる and のむ; humble expression for もらう --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "itadaku"
+      ]
+    },
+    {
+      "word": "祖母",
+      "kana": "そぼ",
+      "meaning": "grandmother",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sobo"
+      ]
+    },
+    {
+      "word": "場所",
+      "kana": "ばしょ",
+      "meaning": "place, location",
+      "jlptLevel": "N4",
+      "romaji": [
+        "basho"
+      ]
+    },
+    {
+      "word": "答",
+      "kana": "こたえ",
+      "meaning": "answer, response",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kotae"
+      ]
+    },
+    {
+      "word": "もちろん",
+      "kana": "もちろん",
+      "meaning": "certainly, of course",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mochiron"
+      ]
+    },
+    {
+      "word": "漬ける",
+      "kana": "つける",
+      "meaning": "to soak, to moisten, to pickle",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsukeru"
+      ]
+    },
+    {
+      "word": "受付",
+      "kana": "うけつけ",
+      "meaning": "reception(ist) desk",
+      "jlptLevel": "N4",
+      "romaji": [
+        "uketsuke"
+      ]
+    },
+    {
+      "word": "内",
+      "kana": "うち",
+      "meaning": "within, inside",
+      "jlptLevel": "N4",
+      "romaji": [
+        "uchi"
+      ]
+    },
+    {
+      "word": "スクリーン",
+      "kana": "スクリーン",
+      "meaning": "screen",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sukuriin"
+      ]
+    },
+    {
+      "word": "増える",
+      "kana": "ふえる",
+      "meaning": "to increase, to multiply",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fueru"
+      ]
+    },
+    {
+      "word": "または",
+      "kana": "または",
+      "meaning": "or, otherwise",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mataha"
+      ]
+    },
+    {
+      "word": "けがする",
+      "kana": "けがする",
+      "meaning": "injury (to animate object), hurt",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kegasuru"
+      ]
+    },
+    {
+      "word": "以下",
+      "kana": "いか",
+      "meaning": "less than, below",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ika"
+      ]
+    },
+    {
+      "word": "選ぶ",
+      "kana": "えらぶ",
+      "meaning": "to choose; to select",
+      "jlptLevel": "N4",
+      "romaji": [
+        "erabu"
+      ]
+    },
+    {
+      "word": "～ばかり",
+      "kana": "～ばかり",
+      "meaning": "just did ~, only",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～bakari",
+        "~bakari"
+      ]
+    },
+    {
+      "word": "心",
+      "kana": "こころ",
+      "meaning": "heart, mind",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kokoro"
+      ]
+    },
+    {
+      "word": "～だす",
+      "kana": "～だす",
+      "meaning": "to start doing ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～dasu",
+        "~dasu"
+      ]
+    },
+    {
+      "word": "サラダ",
+      "kana": "サラダ",
+      "meaning": "salad",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sarada"
+      ]
+    },
+    {
+      "word": "届ける",
+      "kana": "とどける",
+      "meaning": "to deliver (v.t.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "todokeru"
+      ]
+    },
+    {
+      "word": "あいさつする",
+      "kana": "あいさつ",
+      "meaning": "greet(ing)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "aisatsu"
+      ]
+    },
+    {
+      "word": "景色",
+      "kana": "けしき",
+      "meaning": "scenery, landscape",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keshiki"
+      ]
+    },
+    {
+      "word": "確か",
+      "kana": "たしか",
+      "meaning": "if I remember correctly; certain, definite",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tashika"
+      ]
+    },
+    {
+      "word": "ステーキ",
+      "kana": "ステーキ",
+      "meaning": "steak",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suteeki"
+      ]
+    },
+    {
+      "word": "食料品",
+      "kana": "しょくりょうひん",
+      "meaning": "foodstuff, groceries",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shokuryouhin",
+        "shokuryōhin",
+        "shokuryohin"
+      ]
+    },
+    {
+      "word": "森",
+      "kana": "もり",
+      "meaning": "forest",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mori"
+      ]
+    },
+    {
+      "word": "以内",
+      "kana": "いない",
+      "meaning": "within, less (no more) than",
+      "jlptLevel": "N4",
+      "romaji": [
+        "inai"
+      ]
+    },
+    {
+      "word": "予定",
+      "kana": "よてい",
+      "meaning": "plans, arrangement, schedule",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yotei",
+        "yotē",
+        "yote"
+      ]
+    },
+    {
+      "word": "オーバー",
+      "kana": "オーバー",
+      "meaning": "overcoat; over, exceeding, exaggeration",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oobaa"
+      ]
+    },
+    {
+      "word": "乾く",
+      "kana": "かわく",
+      "meaning": "to get dry",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kawaku"
+      ]
+    },
+    {
+      "word": "石",
+      "kana": "いし",
+      "meaning": "stone",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ishi"
+      ]
+    },
+    {
+      "word": "思い出す",
+      "kana": "おもいだす",
+      "meaning": "to recall, to remember",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omoidasu"
+      ]
+    },
+    {
+      "word": "踊る",
+      "kana": "おどる",
+      "meaning": "to dance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "odoru"
+      ]
+    },
+    {
+      "word": "細かい",
+      "kana": "こまかい",
+      "meaning": "small; fine, minute",
+      "jlptLevel": "N4",
+      "romaji": [
+        "komakai"
+      ]
+    },
+    {
+      "word": "塗る",
+      "kana": "ぬる",
+      "meaning": "to paint, to plaster",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nuru"
+      ]
+    },
+    {
+      "word": "ご主人",
+      "kana": "ごしゅじん",
+      "meaning": "(your, her) husband",
+      "jlptLevel": "N4",
+      "romaji": [
+        "goshujin"
+      ]
+    },
+    {
+      "word": "珍しい",
+      "kana": "めずらしい",
+      "meaning": "unusual, rare",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mezurashii"
+      ]
+    },
+    {
+      "word": "用",
+      "kana": "よう",
+      "meaning": "errand, task, business (to take care of)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "you",
+        "yō",
+        "yo"
+      ]
+    },
+    {
+      "word": "公務員",
+      "kana": "こうむいん",
+      "meaning": "government worker, public servant",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koumuin",
+        "kōmuin",
+        "komuin"
+      ]
+    },
+    {
+      "word": "お嬢さん",
+      "kana": "おじょうさん",
+      "meaning": "(someone's) daughter (polite)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ojousan",
+        "ojōsan",
+        "ojosan"
+      ]
+    },
+    {
+      "word": "用意",
+      "kana": "ようい",
+      "meaning": "preparation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "youi",
+        "yōi",
+        "yoi"
+      ]
+    },
+    {
+      "word": "探す",
+      "kana": "さがす",
+      "meaning": "to search, to seek, to look for",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sagasu"
+      ]
+    },
+    {
+      "word": "形",
+      "kana": "かたち",
+      "meaning": "shape",
+      "jlptLevel": "N4",
+      "romaji": [
+        "katachi"
+      ]
+    },
+    {
+      "word": "運転",
+      "kana": "うんてんする",
+      "meaning": "driving",
+      "jlptLevel": "N4",
+      "romaji": [
+        "untensuru"
+      ]
+    },
+    {
+      "word": "すっかり",
+      "kana": "すっかり",
+      "meaning": "all, completely",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sukari"
+      ]
+    },
+    {
+      "word": "アナウンサー",
+      "kana": "アナウンサー",
+      "meaning": "announcer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "anaunsaa"
+      ]
+    },
+    {
+      "word": "お土産",
+      "kana": "おみやげ",
+      "meaning": "souvenir",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omiyage"
+      ]
+    },
+    {
+      "word": "消しゴム",
+      "kana": "けしゴム",
+      "meaning": "eraser",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keshigomu"
+      ]
+    },
+    {
+      "word": "旅館",
+      "kana": "りょかん",
+      "meaning": "a Japanese inn",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ryokan"
+      ]
+    },
+    {
+      "word": "海岸",
+      "kana": "かいがん",
+      "meaning": "coast, seashore",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaigan"
+      ]
+    },
+    {
+      "word": "寂しい",
+      "kana": "さびしい",
+      "meaning": "lonely, lonesome",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sabishii"
+      ]
+    },
+    {
+      "word": "火",
+      "kana": "ひ",
+      "meaning": "fire",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hi"
+      ]
+    },
+    {
+      "word": "育てる",
+      "kana": "そだてる",
+      "meaning": "to raise (v.t.); to bring up",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sodateru"
+      ]
+    },
+    {
+      "word": "味噌",
+      "kana": "みそ",
+      "meaning": "miso, bean paste",
+      "jlptLevel": "N4",
+      "romaji": [
+        "miso"
+      ]
+    },
+    {
+      "word": "お祝い",
+      "kana": "おいわい",
+      "meaning": "congratulation, celebration",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oiwai"
+      ]
+    },
+    {
+      "word": "乗り物",
+      "kana": "のりもの",
+      "meaning": "vehicle",
+      "jlptLevel": "N4",
+      "romaji": [
+        "norimono"
+      ]
+    },
+    {
+      "word": "案内",
+      "kana": "あんないする",
+      "meaning": "information, guidance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "annaisuru"
+      ]
+    },
+    {
+      "word": "通う",
+      "kana": "かよう",
+      "meaning": "to go back and forth; to commute",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kayou",
+        "kayō",
+        "kayo"
+      ]
+    },
+    {
+      "word": "連れる",
+      "kana": "つれる",
+      "meaning": "to lead, to take (a person)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsureru"
+      ]
+    },
+    {
+      "word": "技術",
+      "kana": "ぎじゅつ",
+      "meaning": "technique, technology, skill",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gijutsu"
+      ]
+    },
+    {
+      "word": "小鳥",
+      "kana": "ことり",
+      "meaning": "small bird",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kotori"
+      ]
+    },
+    {
+      "word": "下宿",
+      "kana": "げしゅく",
+      "meaning": "lodging, boarding house",
+      "jlptLevel": "N4",
+      "romaji": [
+        "geshuku"
+      ]
+    },
+    {
+      "word": "ジャム",
+      "kana": "ジャム",
+      "meaning": "jam",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jamu"
+      ]
+    },
+    {
+      "word": "招待",
+      "kana": "しょうたいする",
+      "meaning": "invitation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shoutaisuru",
+        "shōtaisuru",
+        "shotaisuru"
+      ]
+    },
+    {
+      "word": "鏡",
+      "kana": "かがみ",
+      "meaning": "mirror",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kagami"
+      ]
+    },
+    {
+      "word": "はず",
+      "kana": "はず",
+      "meaning": "it should be so",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hazu"
+      ]
+    },
+    {
+      "word": "法律",
+      "kana": "ほうりつ",
+      "meaning": "law",
+      "jlptLevel": "N4",
+      "romaji": [
+        "houritsu",
+        "hōritsu",
+        "horitsu"
+      ]
+    },
+    {
+      "word": "進む",
+      "kana": "すすむ",
+      "meaning": "to advance, to proceed",
+      "jlptLevel": "N4",
+      "romaji": [
+        "susumu"
+      ]
+    },
+    {
+      "word": "楽む",
+      "kana": "たのしむ",
+      "meaning": "to enjoy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tanoshimu"
+      ]
+    },
+    {
+      "word": "貿易",
+      "kana": "ぼうえき",
+      "meaning": "trade",
+      "jlptLevel": "N4",
+      "romaji": [
+        "boueki",
+        "bōeki",
+        "boeki"
+      ]
+    },
+    {
+      "word": "反対",
+      "kana": "はんたい",
+      "meaning": "oppose, opposition, resistance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hantai"
+      ]
+    },
+    {
+      "word": "おる",
+      "kana": "おる",
+      "meaning": "-- extra-modest expression for いる --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oru"
+      ]
+    },
+    {
+      "word": "申す",
+      "kana": "もうす",
+      "meaning": "-- extra-modest (humble) expression for 言う (いう) --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mousu",
+        "mōsu",
+        "mosu"
+      ]
+    },
+    {
+      "word": "試験",
+      "kana": "しけん",
+      "meaning": "an exam",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shiken"
+      ]
+    },
+    {
+      "word": "真面目",
+      "kana": "まじめ",
+      "meaning": "diligent, serious",
+      "jlptLevel": "N4",
+      "romaji": [
+        "majime"
+      ]
+    },
+    {
+      "word": "ごらんになる",
+      "kana": "",
+      "meaning": "-- honorific expression for みる --",
+      "jlptLevel": "N4",
+      "romaji": [
+        ""
+      ]
+    },
+    {
+      "word": "店員",
+      "kana": "てんいん",
+      "meaning": "clerk; shop-employee",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tenin"
+      ]
+    },
+    {
+      "word": "泊まる",
+      "kana": "とまる",
+      "meaning": "to stay (over night) (v.i.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tomaru"
+      ]
+    },
+    {
+      "word": "よろしい",
+      "kana": "よろしい",
+      "meaning": "(hon.) good, OK, all right",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yoroshii"
+      ]
+    },
+    {
+      "word": "今夜",
+      "kana": "こんや",
+      "meaning": "this evening, tonight",
+      "jlptLevel": "N4",
+      "romaji": [
+        "konya"
+      ]
+    },
+    {
+      "word": "おつり",
+      "kana": "おつり",
+      "meaning": "change; balance of money returned to the purchaser",
+      "jlptLevel": "N4",
+      "romaji": [
+        "otsuri"
+      ]
+    },
+    {
+      "word": "チェックする",
+      "kana": "チェックする",
+      "meaning": "check",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chekkusuru"
+      ]
+    },
+    {
+      "word": "会話",
+      "kana": "かいわ",
+      "meaning": "conversation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaiwa"
+      ]
+    },
+    {
+      "word": "空気",
+      "kana": "くうき",
+      "meaning": "air, atmosphere",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kuuki",
+        "kūki",
+        "kuki"
+      ]
+    },
+    {
+      "word": "交通",
+      "kana": "こうつう",
+      "meaning": "traffic, transportation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koutsuu",
+        "kōtsuu",
+        "kotsuu",
+        "koutsū",
+        "koutsu"
+      ]
+    },
+    {
+      "word": "ワープロ",
+      "kana": "ワープロ",
+      "meaning": "word processor",
+      "jlptLevel": "N4",
+      "romaji": [
+        "waapuro"
+      ]
+    },
+    {
+      "word": "喜ぶ",
+      "kana": "よろこぶ",
+      "meaning": "to rejoice, to be delighted, to be glad",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yorokobu"
+      ]
+    },
+    {
+      "word": "急行",
+      "kana": "きゅうこう",
+      "meaning": "express train or bus",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyuukou",
+        "kyuukō",
+        "kyuuko",
+        "kyūkou",
+        "kyukou"
+      ]
+    },
+    {
+      "word": "皆",
+      "kana": "みな",
+      "meaning": "everyone",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mina"
+      ]
+    },
+    {
+      "word": "味",
+      "kana": "あじ",
+      "meaning": "flavor, taste",
+      "jlptLevel": "N4",
+      "romaji": [
+        "aji"
+      ]
+    },
+    {
+      "word": "空港",
+      "kana": "くうこう",
+      "meaning": "airport",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kuukou",
+        "kuukō",
+        "kuuko",
+        "kūkou",
+        "kukou"
+      ]
+    },
+    {
+      "word": "手袋",
+      "kana": "てぶくろ",
+      "meaning": "glove(s)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tebukuro"
+      ]
+    },
+    {
+      "word": "校長",
+      "kana": "こうちょう",
+      "meaning": "principal, headmaster",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kouchou",
+        "kōchō",
+        "kocho"
+      ]
+    },
+    {
+      "word": "ごちそう",
+      "kana": "ごちそう",
+      "meaning": "feast, treating (someone)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gochisou",
+        "gochisō",
+        "gochiso"
+      ]
+    },
+    {
+      "word": "踊り",
+      "kana": "おどり",
+      "meaning": "dance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "odori"
+      ]
+    },
+    {
+      "word": "興味",
+      "kana": "きょうみ",
+      "meaning": "interest (in something)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyoumi",
+        "kyōmi",
+        "kyomi"
+      ]
+    },
+    {
+      "word": "引っ越す",
+      "kana": "ひっこす",
+      "meaning": "to move to a new place of residence",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hikosu"
+      ]
+    },
+    {
+      "word": "冷房",
+      "kana": "れいぼう",
+      "meaning": "cooling, air conditioning",
+      "jlptLevel": "N4",
+      "romaji": [
+        "reibou",
+        "reibō",
+        "reibo",
+        "rēbou",
+        "rebou"
+      ]
+    },
+    {
+      "word": "都合",
+      "kana": "つごう",
+      "meaning": "circumstances, convenience",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsugou",
+        "tsugō",
+        "tsugo"
+      ]
+    },
+    {
+      "word": "遠慮",
+      "kana": "えんりょする",
+      "meaning": "restraint, reserve, hesitate",
+      "jlptLevel": "N4",
+      "romaji": [
+        "enryosuru"
+      ]
+    },
+    {
+      "word": "亡くなる",
+      "kana": "なくなる",
+      "meaning": "to pass away",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nakunaru"
+      ]
+    },
+    {
+      "word": "科学",
+      "kana": "かがく",
+      "meaning": "science",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kagaku"
+      ]
+    },
+    {
+      "word": "はっきり",
+      "kana": "はっきり",
+      "meaning": "clearly, distinctly",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hakiri"
+      ]
+    },
+    {
+      "word": "差し上げる",
+      "kana": "さしあげる",
+      "meaning": "-- humble expression for あげる --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sashiageru"
+      ]
+    },
+    {
+      "word": "気持ち",
+      "kana": "きもち",
+      "meaning": "feeling, sensation, mood",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kimochi"
+      ]
+    },
+    {
+      "word": "祖父",
+      "kana": "そふ",
+      "meaning": "grandfather",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sofu"
+      ]
+    },
+    {
+      "word": "港",
+      "kana": "みなと",
+      "meaning": "harbor, port",
+      "jlptLevel": "N4",
+      "romaji": [
+        "minato"
+      ]
+    },
+    {
+      "word": "予約",
+      "kana": "よやく",
+      "meaning": "reservation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yoyaku"
+      ]
+    },
+    {
+      "word": "凄い",
+      "kana": "すごい",
+      "meaning": "terrific, great",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sugoi"
+      ]
+    },
+    {
+      "word": "入学",
+      "kana": "にゅうがくする",
+      "meaning": "entry to school or university",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nyuugakusuru",
+        "nyūgakusuru",
+        "nyugakusuru"
+      ]
+    },
+    {
+      "word": "片付ける",
+      "kana": "かたづける",
+      "meaning": "to (clean) tidy up (v.t.), to put away",
+      "jlptLevel": "N4",
+      "romaji": [
+        "katazukeru"
+      ]
+    },
+    {
+      "word": "写す",
+      "kana": "うつす",
+      "meaning": "to copy (v.t.); to photograph",
+      "jlptLevel": "N4",
+      "romaji": [
+        "utsusu"
+      ]
+    },
+    {
+      "word": "パソコン",
+      "kana": "パソコン",
+      "meaning": "(personal) computer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "pasokon"
+      ]
+    },
+    {
+      "word": "部長",
+      "kana": "ぶちょう",
+      "meaning": "department (division) manager",
+      "jlptLevel": "N4",
+      "romaji": [
+        "buchou",
+        "buchō",
+        "bucho"
+      ]
+    },
+    {
+      "word": "火事",
+      "kana": "かじ",
+      "meaning": "fire",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaji"
+      ]
+    },
+    {
+      "word": "足す",
+      "kana": "たす",
+      "meaning": "to add (numbers)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tasu"
+      ]
+    },
+    {
+      "word": "教会",
+      "kana": "きょうかい",
+      "meaning": "church",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyoukai",
+        "kyōkai",
+        "kyokai"
+      ]
+    },
+    {
+      "word": "彼ら",
+      "kana": "かれら",
+      "meaning": "they (usually male)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "karera"
+      ]
+    },
+    {
+      "word": "いっぱい",
+      "kana": "いっぱい",
+      "meaning": "full, to the utmost",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ippai"
+      ]
+    },
+    {
+      "word": "アメリカ",
+      "kana": "アメリカ",
+      "meaning": "America, U.S.A.",
+      "jlptLevel": "N4",
+      "romaji": [
+        "amerika"
+      ]
+    },
+    {
+      "word": "男性",
+      "kana": "だんせい",
+      "meaning": "man; male",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dansei",
+        "dansē",
+        "danse"
+      ]
+    },
+    {
+      "word": "理由",
+      "kana": "りゆう",
+      "meaning": "reason",
+      "jlptLevel": "N4",
+      "romaji": [
+        "riyuu",
+        "riyū",
+        "riyu"
+      ]
+    },
+    {
+      "word": "生産",
+      "kana": "せいさんする",
+      "meaning": "production; to produce",
+      "jlptLevel": "N4",
+      "romaji": [
+        "seisansuru",
+        "sēsansuru",
+        "sesansuru"
+      ]
+    },
+    {
+      "word": "着物",
+      "kana": "きもの",
+      "meaning": "kimono; Japanese traditional dress",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kimono"
+      ]
+    },
+    {
+      "word": "おもちゃ",
+      "kana": "おもちゃ",
+      "meaning": "a toy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omocha"
+      ]
+    },
+    {
+      "word": "暮れる",
+      "kana": "くれる",
+      "meaning": "to get dark, to come to an end",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kureru"
+      ]
+    },
+    {
+      "word": "釣る",
+      "kana": "つる",
+      "meaning": "to fish",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuru"
+      ]
+    },
+    {
+      "word": "～ちゃん",
+      "kana": "～ちゃん",
+      "meaning": "suffix for familiar (female) person",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～chan",
+        "~chan"
+      ]
+    },
+    {
+      "word": "打つ",
+      "kana": "うつ",
+      "meaning": "to hit, to strike",
+      "jlptLevel": "N4",
+      "romaji": [
+        "utsu"
+      ]
+    },
+    {
+      "word": "あんな",
+      "kana": "あんな",
+      "meaning": "such, like that",
+      "jlptLevel": "N4",
+      "romaji": [
+        "anna"
+      ]
+    },
+    {
+      "word": "謝る",
+      "kana": "あやまる",
+      "meaning": "to apologize",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ayamaru"
+      ]
+    },
+    {
+      "word": "昼間",
+      "kana": "ひるま",
+      "meaning": "daytime, during the day",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hiruma"
+      ]
+    },
+    {
+      "word": "教育",
+      "kana": "きょういく",
+      "meaning": "education",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyouiku",
+        "kyōiku",
+        "kyoiku"
+      ]
+    },
+    {
+      "word": "女性",
+      "kana": "じょせい",
+      "meaning": "woman",
+      "jlptLevel": "N4",
+      "romaji": [
+        "josei",
+        "josē",
+        "jose"
+      ]
+    },
+    {
+      "word": "米",
+      "kana": "こめ",
+      "meaning": "uncooked rice",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kome"
+      ]
+    },
+    {
+      "word": "邪魔",
+      "kana": "じゃま",
+      "meaning": "hindrance, intrusion",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jama"
+      ]
+    },
+    {
+      "word": "国際",
+      "kana": "こくさい",
+      "meaning": "international",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kokusai"
+      ]
+    },
+    {
+      "word": "隅",
+      "kana": "すみ",
+      "meaning": "corner",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sumi"
+      ]
+    },
+    {
+      "word": "伺う",
+      "kana": "うかがう",
+      "meaning": "humble form of 行く (いく), 聞く (きく) and 来る (くる)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ukagau"
+      ]
+    },
+    {
+      "word": "再来週",
+      "kana": "さらいしゅう",
+      "meaning": "the week after next",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saraishuu",
+        "saraishū",
+        "saraishu"
+      ]
+    },
+    {
+      "word": "夢",
+      "kana": "ゆめ",
+      "meaning": "a dream",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yume"
+      ]
+    },
+    {
+      "word": "喉",
+      "kana": "のど",
+      "meaning": "throat",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nodo"
+      ]
+    },
+    {
+      "word": "最近",
+      "kana": "さいきん",
+      "meaning": "recently, nowadays, in recent years, most recent, latest",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saikin"
+      ]
+    },
+    {
+      "word": "周り",
+      "kana": "まわり",
+      "meaning": "surroundings",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mawari"
+      ]
+    },
+    {
+      "word": "歴史",
+      "kana": "れきし",
+      "meaning": "history",
+      "jlptLevel": "N4",
+      "romaji": [
+        "rekishi"
+      ]
+    },
+    {
+      "word": "不便",
+      "kana": "ふべん",
+      "meaning": "inconvenience",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fuben"
+      ]
+    },
+    {
+      "word": "血",
+      "kana": "ち",
+      "meaning": "blood",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chi"
+      ]
+    },
+    {
+      "word": "～続ける",
+      "kana": "～つづける",
+      "meaning": "to continue doing ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～tsuzukeru",
+        "~tsuzukeru"
+      ]
+    },
+    {
+      "word": "毛",
+      "kana": "け",
+      "meaning": "hair, fur",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ke"
+      ]
+    },
+    {
+      "word": "ひどい",
+      "kana": "ひどい",
+      "meaning": "terrible, awful, unfair, cruel",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hidoi"
+      ]
+    },
+    {
+      "word": "例えば",
+      "kana": "たとえば",
+      "meaning": "for example, e.g.",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tatoeba"
+      ]
+    },
+    {
+      "word": "中々",
+      "kana": "なかなか",
+      "meaning": "very, considerably, quite",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nakanaka"
+      ]
+    },
+    {
+      "word": "随分",
+      "kana": "ずいぶん",
+      "meaning": "extremely",
+      "jlptLevel": "N4",
+      "romaji": [
+        "zuibun"
+      ]
+    },
+    {
+      "word": "～やすい",
+      "kana": "～やすい",
+      "meaning": "easy to do ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～yasui",
+        "~yasui"
+      ]
+    },
+    {
+      "word": "押し入れ",
+      "kana": "おしいれ",
+      "meaning": "closet",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oshiire"
+      ]
+    },
+    {
+      "word": "電灯",
+      "kana": "でんとう",
+      "meaning": "electric light",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dentou",
+        "dentō",
+        "dento"
+      ]
+    },
+    {
+      "word": "叱る",
+      "kana": "しかる",
+      "meaning": "to scold",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shikaru"
+      ]
+    },
+    {
+      "word": "サンダル",
+      "kana": "サンダル",
+      "meaning": "sandal",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sandaru"
+      ]
+    },
+    {
+      "word": "びっくりする",
+      "kana": "びっくりする",
+      "meaning": "to be surprised",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bikurisuru"
+      ]
+    },
+    {
+      "word": "うまい",
+      "kana": "うまい",
+      "meaning": "delicious; skillful; fortunate",
+      "jlptLevel": "N4",
+      "romaji": [
+        "umai"
+      ]
+    },
+    {
+      "word": "変える",
+      "kana": "かえる",
+      "meaning": "to change, to alter, to vary",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaeru"
+      ]
+    },
+    {
+      "word": "講堂",
+      "kana": "こうどう",
+      "meaning": "auditorium",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koudou",
+        "kōdō",
+        "kodo"
+      ]
+    },
+    {
+      "word": "子",
+      "kana": "こ",
+      "meaning": "child",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ko"
+      ]
+    },
+    {
+      "word": "沸かす",
+      "kana": "わかす",
+      "meaning": "to boil",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wakasu"
+      ]
+    },
+    {
+      "word": "レジ",
+      "kana": "レジ",
+      "meaning": "register",
+      "jlptLevel": "N4",
+      "romaji": [
+        "reji"
+      ]
+    },
+    {
+      "word": "しばらく",
+      "kana": "しばらく",
+      "meaning": "little while",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shibaraku"
+      ]
+    },
+    {
+      "word": "特に",
+      "kana": "とくに",
+      "meaning": "particularly",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tokuni"
+      ]
+    },
+    {
+      "word": "空く",
+      "kana": "あく",
+      "meaning": "to open, to become empty (vacant)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "aku"
+      ]
+    },
+    {
+      "word": "計画",
+      "kana": "けいかくする",
+      "meaning": "plan, project, schedule",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keikakusuru",
+        "kēkakusuru",
+        "kekakusuru"
+      ]
+    },
+    {
+      "word": "通り",
+      "kana": "とおり",
+      "meaning": "~ Street, ~ Avenue",
+      "jlptLevel": "N4",
+      "romaji": [
+        "toori",
+        "tōri",
+        "tori"
+      ]
+    },
+    {
+      "word": "下着",
+      "kana": "したぎ",
+      "meaning": "underwear",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shitagi"
+      ]
+    },
+    {
+      "word": "経済",
+      "kana": "けいざい",
+      "meaning": "economics, finance, economy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keizai",
+        "kēzai",
+        "kezai"
+      ]
+    },
+    {
+      "word": "こう",
+      "kana": "こう",
+      "meaning": "like this, this way",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kou",
+        "kō",
+        "ko"
+      ]
+    },
+    {
+      "word": "是非",
+      "kana": "ぜひ",
+      "meaning": "certainly, by all means; without fail",
+      "jlptLevel": "N4",
+      "romaji": [
+        "zehi"
+      ]
+    },
+    {
+      "word": "裏",
+      "kana": "うら",
+      "meaning": "reverse side, back",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ura"
+      ]
+    },
+    {
+      "word": "為",
+      "kana": "ため",
+      "meaning": "good, advantage, in order to",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tame"
+      ]
+    },
+    {
+      "word": "おいでになる",
+      "kana": "おいでになる",
+      "meaning": "(hon.) to be",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oideninaru"
+      ]
+    },
+    {
+      "word": "変わる",
+      "kana": "かわる",
+      "meaning": "to change (v.i.), to be transformed, to vary",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kawaru"
+      ]
+    },
+    {
+      "word": "以外",
+      "kana": "いがい",
+      "meaning": "other than, with the exception of, excepting",
+      "jlptLevel": "N4",
+      "romaji": [
+        "igai"
+      ]
+    },
+    {
+      "word": "済む",
+      "kana": "すむ",
+      "meaning": "to finish, to end",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sumu"
+      ]
+    },
+    {
+      "word": "ハンバーグ",
+      "kana": "ハンバーグ",
+      "meaning": "hamburger steak",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hanbaagu"
+      ]
+    },
+    {
+      "word": "市",
+      "kana": "し",
+      "meaning": "city",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shi"
+      ]
+    },
+    {
+      "word": "引き出し",
+      "kana": "ひきだし",
+      "meaning": "drawer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hikidashi"
+      ]
+    },
+    {
+      "word": "遊び",
+      "kana": "あそび",
+      "meaning": "play",
+      "jlptLevel": "N4",
+      "romaji": [
+        "asobi"
+      ]
+    },
+    {
+      "word": "支度",
+      "kana": "したくする",
+      "meaning": "preparation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shitakusuru"
+      ]
+    },
+    {
+      "word": "～始める",
+      "kana": "～はじめる",
+      "meaning": "to start doing ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～hajimeru",
+        "~hajimeru"
+      ]
+    },
+    {
+      "word": "見える",
+      "kana": "みえる",
+      "meaning": "to be visible; -- polite verb meaning 来る (くる) --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mieru"
+      ]
+    },
+    {
+      "word": "十分",
+      "kana": "じゅうぶん",
+      "meaning": "enough",
+      "jlptLevel": "N4",
+      "romaji": [
+        "juubun",
+        "jūbun",
+        "jubun"
+      ]
+    },
+    {
+      "word": "音",
+      "kana": "おと",
+      "meaning": "sound, note",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oto"
+      ]
+    },
+    {
+      "word": "きっと",
+      "kana": "きっと",
+      "meaning": "surely, definitely, undoubtedly, certainly",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kito"
+      ]
+    },
+    {
+      "word": "まず",
+      "kana": "まず",
+      "meaning": "first (of all), to start with",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mazu"
+      ]
+    },
+    {
+      "word": "遠く",
+      "kana": "とおく",
+      "meaning": "far away, distant",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tooku",
+        "tōku",
+        "toku"
+      ]
+    },
+    {
+      "word": "大体",
+      "kana": "だいたい",
+      "meaning": "approximately; in most cases; in general; to begin with (same as もともと)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "daitai"
+      ]
+    },
+    {
+      "word": "折れる",
+      "kana": "おれる",
+      "meaning": "to break, to be folded, to give in; to turn (a corner)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oreru"
+      ]
+    },
+    {
+      "word": "正しい",
+      "kana": "ただしい",
+      "meaning": "correct",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tadashii"
+      ]
+    },
+    {
+      "word": "輸入",
+      "kana": "ゆにゅう",
+      "meaning": "import",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yunyuu",
+        "yunyū",
+        "yunyu"
+      ]
+    },
+    {
+      "word": "返事",
+      "kana": "へんじ",
+      "meaning": "reply, answer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "henji"
+      ]
+    },
+    {
+      "word": "都",
+      "kana": "と",
+      "meaning": "metropolitan",
+      "jlptLevel": "N4",
+      "romaji": [
+        "to"
+      ]
+    },
+    {
+      "word": "産業",
+      "kana": "さんぎょう",
+      "meaning": "industry",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sangyou",
+        "sangyō",
+        "sangyo"
+      ]
+    },
+    {
+      "word": "伝える",
+      "kana": "つたえる",
+      "meaning": "to convey (a message); to tell, to report",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsutaeru"
+      ]
+    },
+    {
+      "word": "お金持ち",
+      "kana": "かねもち; おかねもち",
+      "meaning": "rich person",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kanemochi; okanemochi"
+      ]
+    },
+    {
+      "word": "説明",
+      "kana": "せつめい",
+      "meaning": "explanation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "setsumei",
+        "setsumē",
+        "setsume"
+      ]
+    },
+    {
+      "word": "島",
+      "kana": "しま",
+      "meaning": "island",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shima"
+      ]
+    },
+    {
+      "word": "道具",
+      "kana": "どうぐ",
+      "meaning": "tool",
+      "jlptLevel": "N4",
+      "romaji": [
+        "dougu",
+        "dōgu",
+        "dogu"
+      ]
+    },
+    {
+      "word": "滑る",
+      "kana": "すべる",
+      "meaning": "to slide, to slip",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suberu"
+      ]
+    },
+    {
+      "word": "それほど",
+      "kana": "それほど",
+      "meaning": "to that degree; extent",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sorehodo"
+      ]
+    },
+    {
+      "word": "以上",
+      "kana": "いじょう",
+      "meaning": "more than; this is all",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ijou",
+        "ijō",
+        "ijo"
+      ]
+    },
+    {
+      "word": "～まま",
+      "kana": "～まま",
+      "meaning": "as it is",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～mama",
+        "~mama"
+      ]
+    },
+    {
+      "word": "特急",
+      "kana": "とっきゅう",
+      "meaning": "limited express (train faster than an express)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tokyuu",
+        "tokyū",
+        "tokyu"
+      ]
+    },
+    {
+      "word": "プレゼント",
+      "kana": "プレゼント",
+      "meaning": "present, gift",
+      "jlptLevel": "N4",
+      "romaji": [
+        "purezento"
+      ]
+    },
+    {
+      "word": "～(に) よると",
+      "kana": "～(に) よると",
+      "meaning": "according to ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～(ni) yoruto",
+        "~(ni) yoruto"
+      ]
+    },
+    {
+      "word": "妻",
+      "kana": "つま",
+      "meaning": "wife (humble)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuma"
+      ]
+    },
+    {
+      "word": "帰り",
+      "kana": "かえり",
+      "meaning": "return, coming back",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaeri"
+      ]
+    },
+    {
+      "word": "具合",
+      "kana": "ぐあい",
+      "meaning": "condition, state, health",
+      "jlptLevel": "N4",
+      "romaji": [
+        "guai"
+      ]
+    },
+    {
+      "word": "堅; 硬; 固い",
+      "kana": "かたい",
+      "meaning": "solid, hard, firm",
+      "jlptLevel": "N4",
+      "romaji": [
+        "katai"
+      ]
+    },
+    {
+      "word": "駐車場",
+      "kana": "ちゅうしゃじょう",
+      "meaning": "parking lot",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chuushajou",
+        "chuushajō",
+        "chuushajo",
+        "chūshajou",
+        "chushajou"
+      ]
+    },
+    {
+      "word": "スーツ",
+      "kana": "スーツ",
+      "meaning": "suit",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suutsu"
+      ]
+    },
+    {
+      "word": "危険",
+      "kana": "きけん",
+      "meaning": "danger, risk, hazard",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kiken"
+      ]
+    },
+    {
+      "word": "髪",
+      "kana": "かみ",
+      "meaning": "hair",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kami"
+      ]
+    },
+    {
+      "word": "天気予報",
+      "kana": "てんきよほう",
+      "meaning": "weather forecast",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tenkiyohou",
+        "tenkiyohō",
+        "tenkiyoho"
+      ]
+    },
+    {
+      "word": "彼女",
+      "kana": "かのじょ",
+      "meaning": "girlfriend; she",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kanojo"
+      ]
+    },
+    {
+      "word": "間",
+      "kana": "あいだ",
+      "meaning": "space, interval",
+      "jlptLevel": "N4",
+      "romaji": [
+        "aida"
+      ]
+    },
+    {
+      "word": "卒業",
+      "kana": "そつぎょう",
+      "meaning": "graduation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sotsugyou",
+        "sotsugyō",
+        "sotsugyo"
+      ]
+    },
+    {
+      "word": "それで",
+      "kana": "それで",
+      "meaning": "and (conj.), thereupon, because of that",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sorede"
+      ]
+    },
+    {
+      "word": "枝",
+      "kana": "えだ",
+      "meaning": "branch, twig",
+      "jlptLevel": "N4",
+      "romaji": [
+        "eda"
+      ]
+    },
+    {
+      "word": "専門",
+      "kana": "せんもん",
+      "meaning": "major; speciality",
+      "jlptLevel": "N4",
+      "romaji": [
+        "senmon"
+      ]
+    },
+    {
+      "word": "そろそろ",
+      "kana": "そろそろ",
+      "meaning": "gradually, soon",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sorosoro"
+      ]
+    },
+    {
+      "word": "送る",
+      "kana": "おくる",
+      "meaning": "to send, to dispatch",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okuru"
+      ]
+    },
+    {
+      "word": "あげる",
+      "kana": "あげる",
+      "meaning": "to give",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ageru"
+      ]
+    },
+    {
+      "word": "騒ぐ",
+      "kana": "さわぐ",
+      "meaning": "to make noise, to clamor",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sawagu"
+      ]
+    },
+    {
+      "word": "尋ねる",
+      "kana": "たずねる",
+      "meaning": "to inquire (same as 質問する)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tazuneru"
+      ]
+    },
+    {
+      "word": "放送",
+      "kana": "ほうそうする",
+      "meaning": "broadcasting",
+      "jlptLevel": "N4",
+      "romaji": [
+        "housousuru",
+        "hōsōsuru",
+        "hososuru"
+      ]
+    },
+    {
+      "word": "政治",
+      "kana": "せいじ",
+      "meaning": "politics",
+      "jlptLevel": "N4",
+      "romaji": [
+        "seiji",
+        "sēji",
+        "seji"
+      ]
+    },
+    {
+      "word": "市民",
+      "kana": "しみん",
+      "meaning": "citizen",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shimin"
+      ]
+    },
+    {
+      "word": "ファックス",
+      "kana": "ファックス",
+      "meaning": "fax",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fuakkusu"
+      ]
+    },
+    {
+      "word": "負ける",
+      "kana": "まける",
+      "meaning": "to lose (a game) (v.i.), to be defeated",
+      "jlptLevel": "N4",
+      "romaji": [
+        "makeru"
+      ]
+    },
+    {
+      "word": "指輪",
+      "kana": "ゆびわ",
+      "meaning": "(finger) ring",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yubiwa"
+      ]
+    },
+    {
+      "word": "田舎",
+      "kana": "いなか",
+      "meaning": "rural, countryside",
+      "jlptLevel": "N4",
+      "romaji": [
+        "inaka"
+      ]
+    },
+    {
+      "word": "見つける",
+      "kana": "みつける",
+      "meaning": "to discover, to find (v.t.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mitsukeru"
+      ]
+    },
+    {
+      "word": "高校生",
+      "kana": "こうこうせい",
+      "meaning": "high school student",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koukousei",
+        "kōkōsei",
+        "kokosei",
+        "koukousē",
+        "koukouse"
+      ]
+    },
+    {
+      "word": "講義",
+      "kana": "こうぎ",
+      "meaning": "a lecture",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kougi",
+        "kōgi",
+        "kogi"
+      ]
+    },
+    {
+      "word": "そんなに",
+      "kana": "そんなに",
+      "meaning": "so much, like that",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sonnani"
+      ]
+    },
+    {
+      "word": "昼休み",
+      "kana": "ひるやすみ",
+      "meaning": "lunch break, noon recess",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hiruyasumi"
+      ]
+    },
+    {
+      "word": "忘れ物",
+      "kana": "わすれもの",
+      "meaning": "lost article, something forgotten",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wasuremono"
+      ]
+    },
+    {
+      "word": "下りる",
+      "kana": "おりる",
+      "meaning": "to get down, to go; come down",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oriru"
+      ]
+    },
+    {
+      "word": "腕",
+      "kana": "うで",
+      "meaning": "arm (in reference to body)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ude"
+      ]
+    },
+    {
+      "word": "訳",
+      "kana": "わけ",
+      "meaning": "reason; explanation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wake"
+      ]
+    },
+    {
+      "word": "承知",
+      "kana": "しょうちする",
+      "meaning": "consent, acceptance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shouchisuru",
+        "shōchisuru",
+        "shochisuru"
+      ]
+    },
+    {
+      "word": "日記",
+      "kana": "にっき",
+      "meaning": "diary, journal",
+      "jlptLevel": "N4",
+      "romaji": [
+        "niki"
+      ]
+    },
+    {
+      "word": "高校; 高等学校",
+      "kana": "こうこう; こうとうがっこう",
+      "meaning": "high school; senior high school",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koukou; koutougakou",
+        "kōkō; kōtōgakō",
+        "koko; kotogako"
+      ]
+    },
+    {
+      "word": "似る",
+      "kana": "にる",
+      "meaning": "to resemble, to be similar",
+      "jlptLevel": "N4",
+      "romaji": [
+        "niru"
+      ]
+    },
+    {
+      "word": "～おわる",
+      "kana": "～おわる",
+      "meaning": "to finish doing ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～owaru",
+        "~owaru"
+      ]
+    },
+    {
+      "word": "暖房",
+      "kana": "だんぼう",
+      "meaning": "heating",
+      "jlptLevel": "N4",
+      "romaji": [
+        "danbou",
+        "danbō",
+        "danbo"
+      ]
+    },
+    {
+      "word": "留守",
+      "kana": "るす",
+      "meaning": "absence; not at home",
+      "jlptLevel": "N4",
+      "romaji": [
+        "rusu"
+      ]
+    },
+    {
+      "word": "割合",
+      "kana": "わりあい",
+      "meaning": "rate, ratio, percentage",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wariai"
+      ]
+    },
+    {
+      "word": "寺",
+      "kana": "てら",
+      "meaning": "Buddhist temple",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tera"
+      ]
+    },
+    {
+      "word": "慣れる",
+      "kana": "なれる",
+      "meaning": "to grow accustomed to",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nareru"
+      ]
+    },
+    {
+      "word": "普通",
+      "kana": "ふつう",
+      "meaning": "common; usual",
+      "jlptLevel": "N4",
+      "romaji": [
+        "futsuu",
+        "futsū",
+        "futsu"
+      ]
+    },
+    {
+      "word": "手伝う",
+      "kana": "てつだう",
+      "meaning": "to help",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tetsudau"
+      ]
+    },
+    {
+      "word": "なるほど",
+      "kana": "なるほど",
+      "meaning": "I see; I now understand",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naruhodo"
+      ]
+    },
+    {
+      "word": "くださる",
+      "kana": "くださる",
+      "meaning": "(hon.) to give, to confer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kudasaru"
+      ]
+    },
+    {
+      "word": "息子",
+      "kana": "むすこ",
+      "meaning": "(humble) son",
+      "jlptLevel": "N4",
+      "romaji": [
+        "musuko"
+      ]
+    },
+    {
+      "word": "お子さん",
+      "kana": "おこさん",
+      "meaning": "(someone else's) child (polite)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okosan"
+      ]
+    },
+    {
+      "word": "会場",
+      "kana": "かいじょう",
+      "meaning": "venue, meeting place",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaijou",
+        "kaijō",
+        "kaijo"
+      ]
+    },
+    {
+      "word": "笑う",
+      "kana": "わらう",
+      "meaning": "to laugh, to smile",
+      "jlptLevel": "N4",
+      "romaji": [
+        "warau"
+      ]
+    },
+    {
+      "word": "運ぶ",
+      "kana": "はこぶ",
+      "meaning": "to transport, to carry",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hakobu"
+      ]
+    },
+    {
+      "word": "文学",
+      "kana": "ぶんがく",
+      "meaning": "literature",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bungaku"
+      ]
+    },
+    {
+      "word": "光",
+      "kana": "ひかり",
+      "meaning": "light",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hikari"
+      ]
+    },
+    {
+      "word": "お見舞い",
+      "kana": "おみまい",
+      "meaning": "calling on someone who is ill, visit",
+      "jlptLevel": "N4",
+      "romaji": [
+        "omimai"
+      ]
+    },
+    {
+      "word": "席",
+      "kana": "せき",
+      "meaning": "a seat",
+      "jlptLevel": "N4",
+      "romaji": [
+        "seki"
+      ]
+    },
+    {
+      "word": "～様",
+      "kana": "～さま",
+      "meaning": "Mr., Mrs., Ms.",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～sama",
+        "~sama"
+      ]
+    },
+    {
+      "word": "ご存じ",
+      "kana": "ごぞんじ",
+      "meaning": "knowing, acquaintance",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gozonji"
+      ]
+    },
+    {
+      "word": "下る",
+      "kana": "さがる",
+      "meaning": "to descend, to drop, to fall",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sagaru"
+      ]
+    },
+    {
+      "word": "字",
+      "kana": "じ",
+      "meaning": "letter; character",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ji"
+      ]
+    },
+    {
+      "word": "アジア",
+      "kana": "アジア",
+      "meaning": "Asia",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ajia"
+      ]
+    },
+    {
+      "word": "褒める",
+      "kana": "ほめる",
+      "meaning": "to praise; to say nice things",
+      "jlptLevel": "N4",
+      "romaji": [
+        "homeru"
+      ]
+    },
+    {
+      "word": "空く",
+      "kana": "すく",
+      "meaning": "to be empty (in reference to people), to be less crowded",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suku"
+      ]
+    },
+    {
+      "word": "あ",
+      "kana": "あ",
+      "meaning": "Ah",
+      "jlptLevel": "N4",
+      "romaji": [
+        "a"
+      ]
+    },
+    {
+      "word": "最も",
+      "kana": "もっとも",
+      "meaning": "most",
+      "jlptLevel": "N4",
+      "romaji": [
+        "motomo"
+      ]
+    },
+    {
+      "word": "合う",
+      "kana": "あう",
+      "meaning": "to fit, to match",
+      "jlptLevel": "N4",
+      "romaji": [
+        "au"
+      ]
+    },
+    {
+      "word": "～代",
+      "kana": "～だい",
+      "meaning": "~ age; period",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～dai",
+        "~dai"
+      ]
+    },
+    {
+      "word": "最後",
+      "kana": "さいご",
+      "meaning": "last, end",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saigo"
+      ]
+    },
+    {
+      "word": "値段",
+      "kana": "ねだん",
+      "meaning": "price",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nedan"
+      ]
+    },
+    {
+      "word": "退院",
+      "kana": "たいいんする",
+      "meaning": "leaving hospital",
+      "jlptLevel": "N4",
+      "romaji": [
+        "taiinsuru"
+      ]
+    },
+    {
+      "word": "展覧会",
+      "kana": "てんらんかい",
+      "meaning": "exhibition",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tenrankai"
+      ]
+    },
+    {
+      "word": "久しぶり",
+      "kana": "ひさしぶり",
+      "meaning": "it has been a long time; for the first time in a long time",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hisashiburi"
+      ]
+    },
+    {
+      "word": "カーテン",
+      "kana": "カーテン",
+      "meaning": "curtain",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaaten"
+      ]
+    },
+    {
+      "word": "汽車",
+      "kana": "きしゃ",
+      "meaning": "train (steam)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kisha"
+      ]
+    },
+    {
+      "word": "遅れる",
+      "kana": "おくれる",
+      "meaning": "to (be) become late",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okureru"
+      ]
+    },
+    {
+      "word": "見つかる",
+      "kana": "みつかる",
+      "meaning": "to be found (v.i.), to be discovered",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mitsukaru"
+      ]
+    },
+    {
+      "word": "召し上がる",
+      "kana": "めしあがる",
+      "meaning": "-- honorific form of 食べる (たべる) and 飲む (のむ) --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "meshiagaru"
+      ]
+    },
+    {
+      "word": "太る",
+      "kana": "ふとる",
+      "meaning": "to gain weight",
+      "jlptLevel": "N4",
+      "romaji": [
+        "futoru"
+      ]
+    },
+    {
+      "word": "注射",
+      "kana": "ちゅうしゃ",
+      "meaning": "injection",
+      "jlptLevel": "N4",
+      "romaji": [
+        "chuusha",
+        "chūsha",
+        "chusha"
+      ]
+    },
+    {
+      "word": "様",
+      "kana": "よう",
+      "meaning": "way, manner, kind",
+      "jlptLevel": "N4",
+      "romaji": [
+        "you",
+        "yō",
+        "yo"
+      ]
+    },
+    {
+      "word": "～おき",
+      "kana": "～おき",
+      "meaning": "after every ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～oki",
+        "~oki"
+      ]
+    },
+    {
+      "word": "最初",
+      "kana": "さいしょ",
+      "meaning": "beginning, first",
+      "jlptLevel": "N4",
+      "romaji": [
+        "saisho"
+      ]
+    },
+    {
+      "word": "御～",
+      "kana": "ご～",
+      "meaning": "honorable ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "go～",
+        "go~"
+      ]
+    },
+    {
+      "word": "安心",
+      "kana": "あんしん",
+      "meaning": "peace of mind, relief",
+      "jlptLevel": "N4",
+      "romaji": [
+        "anshin"
+      ]
+    },
+    {
+      "word": "直る",
+      "kana": "なおる",
+      "meaning": "to be fixed",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naoru"
+      ]
+    },
+    {
+      "word": "集める",
+      "kana": "あつめる",
+      "meaning": "to collect, to gather (v.t.), to assemble",
+      "jlptLevel": "N4",
+      "romaji": [
+        "atsumeru"
+      ]
+    },
+    {
+      "word": "直す",
+      "kana": "なおす",
+      "meaning": "to correct (v.t.); to fix",
+      "jlptLevel": "N4",
+      "romaji": [
+        "naosu"
+      ]
+    },
+    {
+      "word": "続く",
+      "kana": "つづく",
+      "meaning": "to be continued",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuzuku"
+      ]
+    },
+    {
+      "word": "先輩",
+      "kana": "せんぱい",
+      "meaning": "senior members of a group",
+      "jlptLevel": "N4",
+      "romaji": [
+        "senpai"
+      ]
+    },
+    {
+      "word": "約束",
+      "kana": "やくそく",
+      "meaning": "arrangement, appointment, promise",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yakusoku"
+      ]
+    },
+    {
+      "word": "世話",
+      "kana": "せわする",
+      "meaning": "looking after; to look after",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sewasuru"
+      ]
+    },
+    {
+      "word": "近所",
+      "kana": "きんじょ",
+      "meaning": "neighborhood",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kinjo"
+      ]
+    },
+    {
+      "word": "将来",
+      "kana": "しょうらい",
+      "meaning": "(in the) future; prospects",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shourai",
+        "shōrai",
+        "shorai"
+      ]
+    },
+    {
+      "word": "億",
+      "kana": "おく",
+      "meaning": "hundred million",
+      "jlptLevel": "N4",
+      "romaji": [
+        "oku"
+      ]
+    },
+    {
+      "word": "数学",
+      "kana": "すうがく",
+      "meaning": "mathematics",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suugaku",
+        "sūgaku",
+        "sugaku"
+      ]
+    },
+    {
+      "word": "文化",
+      "kana": "ぶんか",
+      "meaning": "culture",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bunka"
+      ]
+    },
+    {
+      "word": "払う",
+      "kana": "はらう",
+      "meaning": "to pay",
+      "jlptLevel": "N4",
+      "romaji": [
+        "harau"
+      ]
+    },
+    {
+      "word": "習慣",
+      "kana": "しゅうかん",
+      "meaning": "custom (in reference to culture)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shuukan",
+        "shūkan",
+        "shukan"
+      ]
+    },
+    {
+      "word": "焼ける",
+      "kana": "やける",
+      "meaning": "to burn, to be roasted",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yakeru"
+      ]
+    },
+    {
+      "word": "君",
+      "kana": "きみ",
+      "meaning": "you (informal for men)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kimi"
+      ]
+    },
+    {
+      "word": "冷える",
+      "kana": "ひえる",
+      "meaning": "to grow cold, to cool down",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hieru"
+      ]
+    },
+    {
+      "word": "点く",
+      "kana": "つく",
+      "meaning": "to be started, to be switched on",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuku"
+      ]
+    },
+    {
+      "word": "この間",
+      "kana": "このあいだ",
+      "meaning": "the other day, recently",
+      "jlptLevel": "N4",
+      "romaji": [
+        "konoaida"
+      ]
+    },
+    {
+      "word": "かっこう",
+      "kana": "かっこう",
+      "meaning": "appearance, manner, shape, form, posture",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kakkou"
+      ]
+    },
+    {
+      "word": "かまう",
+      "kana": "",
+      "meaning": "to mind, to care about, to be concerned about",
+      "jlptLevel": "N4",
+      "romaji": [
+        ""
+      ]
+    },
+    {
+      "word": "続ける",
+      "kana": "つづける",
+      "meaning": "to continue, to keep up",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tsuzukeru"
+      ]
+    },
+    {
+      "word": "落す",
+      "kana": "おとす",
+      "meaning": "to drop, to lose",
+      "jlptLevel": "N4",
+      "romaji": [
+        "otosu"
+      ]
+    },
+    {
+      "word": "明日",
+      "kana": "あす",
+      "meaning": "tomorrow",
+      "jlptLevel": "N4",
+      "romaji": [
+        "asu"
+      ]
+    },
+    {
+      "word": "出発",
+      "kana": "しゅっぱつする",
+      "meaning": "departure",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shupatsusuru"
+      ]
+    },
+    {
+      "word": "拝見",
+      "kana": "はいけんする",
+      "meaning": "(humble) (polite) seeing, look at",
+      "jlptLevel": "N4",
+      "romaji": [
+        "haikensuru"
+      ]
+    },
+    {
+      "word": "割れる",
+      "kana": "われる",
+      "meaning": "to break",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wareru"
+      ]
+    },
+    {
+      "word": "背中",
+      "kana": "せなか",
+      "meaning": "back (of body)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "senaka"
+      ]
+    },
+    {
+      "word": "新聞社",
+      "kana": "しんぶんしゃ",
+      "meaning": "newspaper company",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shinbunsha"
+      ]
+    },
+    {
+      "word": "いじめる",
+      "kana": "いじめる",
+      "meaning": "to bully, to torment",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ijimeru"
+      ]
+    },
+    {
+      "word": "回る、回す",
+      "kana": "まわる、まわす",
+      "meaning": "to go around, to revolve",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mawaru,mawasu"
+      ]
+    },
+    {
+      "word": "～君",
+      "kana": "～くん",
+      "meaning": "Mr. (junior) ~, master ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～kun",
+        "~kun"
+      ]
+    },
+    {
+      "word": "おっしゃる",
+      "kana": "おっしゃる",
+      "meaning": "-- honorific expression for いう --",
+      "jlptLevel": "N4",
+      "romaji": [
+        "osharu"
+      ]
+    },
+    {
+      "word": "眠い",
+      "kana": "ねむい",
+      "meaning": "sleepy, drowsy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nemui"
+      ]
+    },
+    {
+      "word": "濡れる",
+      "kana": "ぬれる",
+      "meaning": "to get wet",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nureru"
+      ]
+    },
+    {
+      "word": "倒れる",
+      "kana": "たおれる",
+      "meaning": "to collapse, to break down",
+      "jlptLevel": "N4",
+      "romaji": [
+        "taoreru"
+      ]
+    },
+    {
+      "word": "スーパー (マーケット)",
+      "kana": "スーパー (マーケット)",
+      "meaning": "supermarket",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suupaa (maaketto)"
+      ]
+    },
+    {
+      "word": "アクセサリー",
+      "kana": "アクセサリー",
+      "meaning": "accessory",
+      "jlptLevel": "N4",
+      "romaji": [
+        "akusesarii"
+      ]
+    },
+    {
+      "word": "考える",
+      "kana": "かんがえる",
+      "meaning": "to think (about); to consider",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kangaeru"
+      ]
+    },
+    {
+      "word": "向かう",
+      "kana": "むかう",
+      "meaning": "to face, to go towards",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mukau"
+      ]
+    },
+    {
+      "word": "自由",
+      "kana": "じゆう",
+      "meaning": "freedom",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jiyuu",
+        "jiyū",
+        "jiyu"
+      ]
+    },
+    {
+      "word": "仕方",
+      "kana": "しかた",
+      "meaning": "way (of doing something)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shikata"
+      ]
+    },
+    {
+      "word": "首",
+      "kana": "くび",
+      "meaning": "neck",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kubi"
+      ]
+    },
+    {
+      "word": "程",
+      "kana": "ほど",
+      "meaning": "degree, extent",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hodo"
+      ]
+    },
+    {
+      "word": "代わり",
+      "kana": "かわり",
+      "meaning": "substitute, replacement",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kawari"
+      ]
+    },
+    {
+      "word": "失敗",
+      "kana": "しっぱい",
+      "meaning": "failure, mistake",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shipai"
+      ]
+    },
+    {
+      "word": "工業",
+      "kana": "こうぎょう",
+      "meaning": "(manufacturing) industry",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kougyou",
+        "kōgyō",
+        "kogyo"
+      ]
+    },
+    {
+      "word": "移る",
+      "kana": "うつる",
+      "meaning": "to move (from a house); to transfer (from a department); to shift",
+      "jlptLevel": "N4",
+      "romaji": [
+        "utsuru"
+      ]
+    },
+    {
+      "word": "スーツケース",
+      "kana": "スーツケース",
+      "meaning": "suitcase",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suutsukeesu"
+      ]
+    },
+    {
+      "word": "ひげ",
+      "kana": "ひげ",
+      "meaning": "beard",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hige"
+      ]
+    },
+    {
+      "word": "研究室",
+      "kana": "けんきゅうしつ",
+      "meaning": "the professor's office; laboratory",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kenkyuushitsu",
+        "kenkyūshitsu",
+        "kenkyushitsu"
+      ]
+    },
+    {
+      "word": "工場",
+      "kana": "こうじょう",
+      "meaning": "factory",
+      "jlptLevel": "N4",
+      "romaji": [
+        "koujou",
+        "kōjō",
+        "kojo"
+      ]
+    },
+    {
+      "word": "紹介",
+      "kana": "しょうかい",
+      "meaning": "an introduction",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shoukai",
+        "shōkai",
+        "shokai"
+      ]
+    },
+    {
+      "word": "けれど; けれども",
+      "kana": "けれど; けれども",
+      "meaning": "but, although",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keredo; keredomo"
+      ]
+    },
+    {
+      "word": "舟",
+      "kana": "ふね",
+      "meaning": "ship, boat",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fune"
+      ]
+    },
+    {
+      "word": "動く",
+      "kana": "うごく",
+      "meaning": "to move",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ugoku"
+      ]
+    },
+    {
+      "word": "～(に) ついて",
+      "kana": "～(に) ついて",
+      "meaning": "about, concerning",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～(ni) tsuite",
+        "~(ni) tsuite"
+      ]
+    },
+    {
+      "word": "コンサート",
+      "kana": "コンサート",
+      "meaning": "concert",
+      "jlptLevel": "N4",
+      "romaji": [
+        "konsaato"
+      ]
+    },
+    {
+      "word": "虫",
+      "kana": "むし",
+      "meaning": "insect",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mushi"
+      ]
+    },
+    {
+      "word": "優しい",
+      "kana": "やさしい",
+      "meaning": "kind (person), gentle (person), easy (problem)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yasashii"
+      ]
+    },
+    {
+      "word": "コンピュータ; コンピューター",
+      "kana": "コンピュータ; コンピューター",
+      "meaning": "computer",
+      "jlptLevel": "N4",
+      "romaji": [
+        "konpyuuta; konpyuutaa"
+      ]
+    },
+    {
+      "word": "植える",
+      "kana": "うえる",
+      "meaning": "to plant",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ueru"
+      ]
+    },
+    {
+      "word": "両方",
+      "kana": "りょうほう",
+      "meaning": "both sides, both parties",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ryouhou",
+        "ryōhō",
+        "ryoho"
+      ]
+    },
+    {
+      "word": "汚れる",
+      "kana": "よごれる",
+      "meaning": "to become dirty",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yogoreru"
+      ]
+    },
+    {
+      "word": "水泳",
+      "kana": "すいえい",
+      "meaning": "swimming",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suiei",
+        "suiē",
+        "suie"
+      ]
+    },
+    {
+      "word": "経験",
+      "kana": "けいけんする",
+      "meaning": "experience",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keikensuru",
+        "kēkensuru",
+        "kekensuru"
+      ]
+    },
+    {
+      "word": "勝つ",
+      "kana": "かつ",
+      "meaning": "to win",
+      "jlptLevel": "N4",
+      "romaji": [
+        "katsu"
+      ]
+    },
+    {
+      "word": "砂",
+      "kana": "すな",
+      "meaning": "sand",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suna"
+      ]
+    },
+    {
+      "word": "警察",
+      "kana": "けいさつ",
+      "meaning": "police; police station",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keisatsu",
+        "kēsatsu",
+        "kesatsu"
+      ]
+    },
+    {
+      "word": "取り替える",
+      "kana": "とりかえる",
+      "meaning": "to exchange, to replace",
+      "jlptLevel": "N4",
+      "romaji": [
+        "torikaeru"
+      ]
+    },
+    {
+      "word": "急ぐ",
+      "kana": "いそぐ",
+      "meaning": "to hurry, to be in a hurry, to rush",
+      "jlptLevel": "N4",
+      "romaji": [
+        "isogu"
+      ]
+    },
+    {
+      "word": "簡単",
+      "kana": "かんたん",
+      "meaning": "simple",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kantan"
+      ]
+    },
+    {
+      "word": "参る",
+      "kana": "まいる",
+      "meaning": "humble expression for 行く and 来る",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mairu"
+      ]
+    },
+    {
+      "word": "全然",
+      "kana": "ぜんぜん",
+      "meaning": "not at all; wholly, entirely",
+      "jlptLevel": "N4",
+      "romaji": [
+        "zenzen"
+      ]
+    },
+    {
+      "word": "特別",
+      "kana": "とくべつ",
+      "meaning": "special",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tokubetsu"
+      ]
+    },
+    {
+      "word": "復習",
+      "kana": "ふくしゅう",
+      "meaning": "review (of lessons), revision",
+      "jlptLevel": "N4",
+      "romaji": [
+        "fukushuu",
+        "fukushū",
+        "fukushu"
+      ]
+    },
+    {
+      "word": "間に合う",
+      "kana": "まにあう",
+      "meaning": "to be in time for",
+      "jlptLevel": "N4",
+      "romaji": [
+        "maniau"
+      ]
+    },
+    {
+      "word": "役に立つ",
+      "kana": "やくにたつ",
+      "meaning": "to be helpful, to be useful",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yakunitatsu"
+      ]
+    },
+    {
+      "word": "もうすぐ",
+      "kana": "もうすぐ",
+      "meaning": "very soon; in a few moments; days",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mousugu",
+        "mōsugu",
+        "mosugu"
+      ]
+    },
+    {
+      "word": "真中",
+      "kana": "まんなか",
+      "meaning": "middle, center",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mannaka"
+      ]
+    },
+    {
+      "word": "戻る",
+      "kana": "もどる",
+      "meaning": "to return (v.i.); to come back",
+      "jlptLevel": "N4",
+      "romaji": [
+        "modoru"
+      ]
+    },
+    {
+      "word": "研究",
+      "kana": "けんきゅう",
+      "meaning": "study, research, investigation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kenkyuu",
+        "kenkyū",
+        "kenkyu"
+      ]
+    },
+    {
+      "word": "ケーキ",
+      "kana": "ケーキ",
+      "meaning": "cake",
+      "jlptLevel": "N4",
+      "romaji": [
+        "keeki"
+      ]
+    },
+    {
+      "word": "草",
+      "kana": "くさ",
+      "meaning": "grass",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kusa"
+      ]
+    },
+    {
+      "word": "込む",
+      "kana": "こむ",
+      "meaning": "to be crowded",
+      "jlptLevel": "N4",
+      "romaji": [
+        "komu"
+      ]
+    },
+    {
+      "word": "この頃",
+      "kana": "このごろ",
+      "meaning": "these days, nowadays",
+      "jlptLevel": "N4",
+      "romaji": [
+        "konogoro"
+      ]
+    },
+    {
+      "word": "訪ねる",
+      "kana": "たずねる",
+      "meaning": "to visit",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tazuneru"
+      ]
+    },
+    {
+      "word": "下げる",
+      "kana": "さげる",
+      "meaning": "to lower (v.t.); to hang",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sageru"
+      ]
+    },
+    {
+      "word": "花見",
+      "kana": "はなみ",
+      "meaning": "cherry-blossom viewing",
+      "jlptLevel": "N4",
+      "romaji": [
+        "hanami"
+      ]
+    },
+    {
+      "word": "途中",
+      "kana": "とちゅう",
+      "meaning": "on the way, midway",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tochuu",
+        "tochū",
+        "tochu"
+      ]
+    },
+    {
+      "word": "入院",
+      "kana": "にゅういんする",
+      "meaning": "hospitalization",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nyuuinsuru",
+        "nyūinsuru",
+        "nyuinsuru"
+      ]
+    },
+    {
+      "word": "乗り換える",
+      "kana": "のりかえる",
+      "meaning": "to transfer (trains), to change (bus, train, etc.)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "norikaeru"
+      ]
+    },
+    {
+      "word": "別れる",
+      "kana": "わかれる",
+      "meaning": "to part from, to separate",
+      "jlptLevel": "N4",
+      "romaji": [
+        "wakareru"
+      ]
+    },
+    {
+      "word": "～町",
+      "kana": "～ちょう",
+      "meaning": "the town of ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～chou",
+        "～chō",
+        "～cho",
+        "~chou",
+        "~chō",
+        "~cho"
+      ]
+    },
+    {
+      "word": "安全",
+      "kana": "あんぜん",
+      "meaning": "safety, security",
+      "jlptLevel": "N4",
+      "romaji": [
+        "anzen"
+      ]
+    },
+    {
+      "word": "看護婦",
+      "kana": "かんごふ",
+      "meaning": "(female) nurse",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kangofu"
+      ]
+    },
+    {
+      "word": "見物",
+      "kana": "けんぶつ",
+      "meaning": "sightseeing",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kenbutsu"
+      ]
+    },
+    {
+      "word": "相談",
+      "kana": "そうだんする",
+      "meaning": "consultation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "soudansuru",
+        "sōdansuru",
+        "sodansuru"
+      ]
+    },
+    {
+      "word": "ガソリンスタンド",
+      "kana": "ガソリンスタンド",
+      "meaning": "gas station, service station",
+      "jlptLevel": "N4",
+      "romaji": [
+        "gasorinsutando"
+      ]
+    },
+    {
+      "word": "テニス",
+      "kana": "テニス",
+      "meaning": "tennis",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tenisu"
+      ]
+    },
+    {
+      "word": "眠る",
+      "kana": "ねむる",
+      "meaning": "to sleep",
+      "jlptLevel": "N4",
+      "romaji": [
+        "nemuru"
+      ]
+    },
+    {
+      "word": "上がる",
+      "kana": "あがる",
+      "meaning": "to rise, to go up",
+      "jlptLevel": "N4",
+      "romaji": [
+        "agaru"
+      ]
+    },
+    {
+      "word": "翻訳",
+      "kana": "ほんやく",
+      "meaning": "translation",
+      "jlptLevel": "N4",
+      "romaji": [
+        "honyaku"
+      ]
+    },
+    {
+      "word": "食事",
+      "kana": "しょくじする",
+      "meaning": "meal",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shokujisuru"
+      ]
+    },
+    {
+      "word": "おかげ",
+      "kana": "おかげ",
+      "meaning": "thanks or owing to",
+      "jlptLevel": "N4",
+      "romaji": [
+        "okage"
+      ]
+    },
+    {
+      "word": "娘",
+      "kana": "むすめ",
+      "meaning": "daughter (humble)",
+      "jlptLevel": "N4",
+      "romaji": [
+        "musume"
+      ]
+    },
+    {
+      "word": "湯",
+      "kana": "ゆ",
+      "meaning": "hot water",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yu"
+      ]
+    },
+    {
+      "word": "競争",
+      "kana": "きょうそう",
+      "meaning": "competition, contest",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyousou",
+        "kyōsō",
+        "kyoso"
+      ]
+    },
+    {
+      "word": "会議",
+      "kana": "かいぎ",
+      "meaning": "business meeting; conference",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kaigi"
+      ]
+    },
+    {
+      "word": "湖",
+      "kana": "みずうみ",
+      "meaning": "lake",
+      "jlptLevel": "N4",
+      "romaji": [
+        "mizuumi",
+        "mizūmi",
+        "mizumi"
+      ]
+    },
+    {
+      "word": "集まる",
+      "kana": "あつまる",
+      "meaning": "to gather (v.i.), to collect",
+      "jlptLevel": "N4",
+      "romaji": [
+        "atsumaru"
+      ]
+    },
+    {
+      "word": "～にくい",
+      "kana": "～にくい",
+      "meaning": "difficult to do ~",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～nikui",
+        "~nikui"
+      ]
+    },
+    {
+      "word": "生活",
+      "kana": "せいかつする",
+      "meaning": "living, life; to live",
+      "jlptLevel": "N4",
+      "romaji": [
+        "seikatsusuru",
+        "sēkatsusuru",
+        "sekatsusuru"
+      ]
+    },
+    {
+      "word": "糸",
+      "kana": "いと",
+      "meaning": "thread",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ito"
+      ]
+    },
+    {
+      "word": "関係",
+      "kana": "かんけい",
+      "meaning": "relation(ship), connection",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kankei",
+        "kankē",
+        "kanke"
+      ]
+    },
+    {
+      "word": "ピアノ",
+      "kana": "ピアノ",
+      "meaning": "piano",
+      "jlptLevel": "N4",
+      "romaji": [
+        "piano"
+      ]
+    },
+    {
+      "word": "～目",
+      "kana": "～め",
+      "meaning": "number ~ sequence, ~nd; ~th",
+      "jlptLevel": "N4",
+      "romaji": [
+        "～me",
+        "~me"
+      ]
+    },
+    {
+      "word": "番組",
+      "kana": "ばんぐみ",
+      "meaning": "broadcast program",
+      "jlptLevel": "N4",
+      "romaji": [
+        "bangumi"
+      ]
+    },
+    {
+      "word": "急",
+      "kana": "きゅう",
+      "meaning": "urgent, sudden; steep",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kyuu",
+        "kyū",
+        "kyu"
+      ]
+    },
+    {
+      "word": "棚",
+      "kana": "たな",
+      "meaning": "shelves, rack",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tana"
+      ]
+    },
+    {
+      "word": "木綿",
+      "kana": "もめん",
+      "meaning": "cotton",
+      "jlptLevel": "N4",
+      "romaji": [
+        "momen"
+      ]
+    },
+    {
+      "word": "輸出",
+      "kana": "ゆしゅつする",
+      "meaning": "export",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yushutsusuru"
+      ]
+    },
+    {
+      "word": "タイプ",
+      "kana": "タイプ",
+      "meaning": "type, style",
+      "jlptLevel": "N4",
+      "romaji": [
+        "taipu"
+      ]
+    },
+    {
+      "word": "すり",
+      "kana": "すり",
+      "meaning": "pickpocket",
+      "jlptLevel": "N4",
+      "romaji": [
+        "suri"
+      ]
+    },
+    {
+      "word": "うれしい",
+      "kana": "うれしい",
+      "meaning": "to be happy; to be glad",
+      "jlptLevel": "N4",
+      "romaji": [
+        "ureshii"
+      ]
+    },
+    {
+      "word": "アルコール",
+      "kana": "アルコール",
+      "meaning": "alcohol",
+      "jlptLevel": "N4",
+      "romaji": [
+        "arukooru"
+      ]
+    },
+    {
+      "word": "ソフト",
+      "kana": "ソフト",
+      "meaning": "soft; soft hat; software",
+      "jlptLevel": "N4",
+      "romaji": [
+        "sofuto"
+      ]
+    },
+    {
+      "word": "神社",
+      "kana": "じんじゃ",
+      "meaning": "Shinto shrine",
+      "jlptLevel": "N4",
+      "romaji": [
+        "jinja"
+      ]
+    },
+    {
+      "word": "大分",
+      "kana": "だいぶ",
+      "meaning": "fairly well, to a large extent, considerably, pretty much",
+      "jlptLevel": "N4",
+      "romaji": [
+        "daibu"
+      ]
+    },
+    {
+      "word": "楽しみ",
+      "kana": "たのしみ",
+      "meaning": "pleasure, joy",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tanoshimi"
+      ]
+    },
+    {
+      "word": "趣味",
+      "kana": "しゅみ",
+      "meaning": "hobby; pastime",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shumi"
+      ]
+    },
+    {
+      "word": "電報",
+      "kana": "でんぽう",
+      "meaning": "telegram",
+      "jlptLevel": "N4",
+      "romaji": [
+        "denpou",
+        "denpō",
+        "denpo"
+      ]
+    },
+    {
+      "word": "家内",
+      "kana": "かない",
+      "meaning": "(one's own) wife",
+      "jlptLevel": "N4",
+      "romaji": [
+        "kanai"
+      ]
+    },
+    {
+      "word": "指",
+      "kana": "ゆび",
+      "meaning": "finger",
+      "jlptLevel": "N4",
+      "romaji": [
+        "yubi"
+      ]
+    },
+    {
+      "word": "これから",
+      "kana": "これから",
+      "meaning": "from now on, after this",
+      "jlptLevel": "N4",
+      "romaji": [
+        "korekara"
+      ]
+    },
+    {
+      "word": "たまに",
+      "kana": "たまに",
+      "meaning": "occasionally",
+      "jlptLevel": "N4",
+      "romaji": [
+        "tamani"
+      ]
+    },
+    {
+      "word": "社会",
+      "kana": "しゃかい",
+      "meaning": "society",
+      "jlptLevel": "N4",
+      "romaji": [
+        "shakai"
+      ]
+    }
+  ]
+}

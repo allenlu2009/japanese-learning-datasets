@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-11",
+  "datasets": {
+    "kana": {
+      "hiragana": {
+        "itemCount": 104,
+        "breakdown": {
+          "basic": 46,
+          "dakuten": 25,
+          "combo": 33
+        }
+      },
+      "katakana": {
+        "itemCount": 104,
+        "breakdown": {
+          "basic": 46,
+          "dakuten": 25,
+          "combo": 33
+        }
+      }
+    },
+    "kanji": {
+      "n5": {
+        "itemCount": 80
+      },
+      "n4": {
+        "itemCount": 166
+      }
+    },
+    "vocabulary": {
+      "n5": {
+        "itemCount": 718
+      },
+      "n4": {
+        "itemCount": 668
+      }
+    }
+  },
+  "fieldConventions": {
+    "kana": {
+      "romaji": "Correct English spelling used in all public datasets"
+    },
+    "vocabulary": {
+      "romaji": "Correct English spelling used in all public datasets (converted from internal 'romanji')"
+    },
+    "note": "Applications using 'romanji' internally should use adapter utilities to convert during import/export"
+  },
+  "corrections": {
+    "2026-01-11": [
+      "Fixed doubled consonants in vocabulary (gemini/claude collaboration)",
+      "Fixed triple-n errors in vocabulary (gemini/claude collaboration)",
+      "Standardized field naming to 'romaji' (correct English spelling)"
+    ]
+  },
+  "contributors": ["gemini", "claude", "codex"],
+  "license": "MIT"
+}

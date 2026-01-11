@@ -1,0 +1,30 @@
+{
+  "name": "japanese-learning-datasets",
+  "version": "1.0.0",
+  "description": "Unified, validated datasets for Japanese language learning applications",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "convert:kana": "node scripts/convert-kana.js",
+    "convert:vocab": "node scripts/convert-vocab.js",
+    "convert:all": "npm run convert:kana && npm run convert:vocab"
+  },
+  "keywords": [
+    "japanese",
+    "learning",
+    "jlpt",
+    "hiragana",
+    "katakana",
+    "kanji",
+    "vocabulary"
+  ],
+  "contributors": [
+    "Claude AI",
+    "Gemini AI",
+    "Codex AI"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/japanese-learning-datasets.git"
+  }
+}
