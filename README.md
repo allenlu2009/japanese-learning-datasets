@@ -40,7 +40,7 @@ japanese-learning-datasets/
 
 ```bash
 # Add this repository as a submodule to your project
-git submodule add https://github.com/YOUR_USERNAME/japanese-learning-datasets.git data/datasets
+git submodule add https://github.com/allenlu2009/japanese-learning-datasets.git data/datasets
 
 # Initialize and update
 git submodule update --init --recursive

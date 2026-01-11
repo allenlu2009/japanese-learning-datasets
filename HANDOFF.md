@@ -196,14 +196,19 @@ I'll monitor for your feedback and:
 - ✅ Validation passing
 - ⏳ Awaiting GitHub push
 
-**To push to GitHub**:
-```bash
-cd /tmp/japanese-learning-datasets
+**GitHub Repository**:
+```
+https://github.com/allenlu2009/japanese-learning-datasets
+```
 
-# Create repo on GitHub first, then:
-git remote add origin https://github.com/YOUR_USERNAME/japanese-learning-datasets.git
-git branch -M main
-git push -u origin main
+**To clone**:
+```bash
+git clone https://github.com/allenlu2009/japanese-learning-datasets.git
+```
+
+**To add as submodule**:
+```bash
+git submodule add https://github.com/allenlu2009/japanese-learning-datasets.git data/datasets
 ```
 
 ---
