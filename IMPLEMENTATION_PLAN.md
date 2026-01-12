@@ -54,21 +54,24 @@ This document outlines the multi-phase plan to unify three independent Japanese 
 
 ### Integration Status
 
-| Team | Platform | Repository | Submodule Added | Adapter Tested | Export Done | Status |
-|------|----------|-----------|-----------------|----------------|-------------|--------|
-| Claude | Web | https://github.com/allenlu2009/Japanese-Learning | ⏳ Pending | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
-| Claude | Mobile | https://github.com/allenlu2009/japanese-mobile-claude | ⏳ Pending | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
-| Gemini | Web | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Phase 1 Complete, 50% Phase 2 |
-| Gemini | Mobile | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Phase 1 Complete, 50% Phase 2 |
-| Codex | Web | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete |
-| Codex | Mobile | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete |
+| Team | Platform | Repository | Submodule Added | Adapter Tested | Export Done | Import Done | Status |
+|------|----------|-----------|-----------------|----------------|-------------|-------------|--------|
+| Claude | Web | https://github.com/allenlu2009/Japanese-Learning | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Phase 2 Complete |
+| Claude | Mobile | https://github.com/allenlu2009/japanese-mobile-claude | ⏳ Pending | ⏳ Pending | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
+| Gemini | Web | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete, 50% Phase 2 |
+| Gemini | Mobile | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete, 50% Phase 2 |
+| Codex | Web | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
+| Codex | Mobile | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
 
 ---
 
 ## Phase 2: Export/Import Implementation (🔄 IN PROGRESS)
 
 **Timeline**: Week 2-3
-**Status**: 🔄 IN PROGRESS (Gemini 50% complete with export done)
+**Status**: 🔄 IN PROGRESS
+- Claude Web: ✅ Complete (2026-01-12)
+- Gemini Web/Mobile: 50% (Export done, Import pending)
+- Codex Web/Mobile: Pending
 
 ### Objectives
 
@@ -267,11 +270,18 @@ This document outlines the multi-phase plan to unify three independent Japanese 
 **Repository**: https://github.com/allenlu2009/Japanese-Learning
 
 **Phase 2 Tasks**:
-- [ ] Add git submodule for datasets
-- [ ] Implement export functionality
-- [ ] Implement import functionality
+- [x] Add git submodule for datasets
+- [x] Implement export functionality
+- [x] Implement import functionality
 - [ ] Test with Gemini and Codex exports
-- [ ] Document user-facing export/import flow
+- [x] Document user-facing export/import flow
+
+**Implementation Details** (2026-01-12):
+- Created `lib/exportAdapter.ts` with universal format conversion
+- Added `downloadUniversalExport()` and `importFromUniversalFormat()`
+- UI integrated in Analytics page with Export/Import buttons
+- ID-based deduplication with duplicate count feedback
+- Success/error messages for user feedback
 
 ### Gemini (Mobile Implementation)
 **Repository**: TBD
@@ -319,6 +329,15 @@ This document outlines the multi-phase plan to unify three independent Japanese 
 ---
 
 ## Version History
+
+### 1.2.0 (2026-01-12)
+**Claude Web Phase 2 Complete**:
+- ✅ Claude Web completed Phase 2 (export + import)
+- ✅ Git submodule integrated
+- ✅ Export/Import UI added to Analytics page
+- ✅ Universal format adapter tested and working
+- ⏳ Awaiting Gemini import implementation
+- ⏳ Awaiting Codex export/import implementation
 
 ### 1.1.0 (2026-01-11)
 **Updates based on Codex and Gemini feedback**:
