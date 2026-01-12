@@ -1,8 +1,9 @@
 # Japanese Learning Apps: Multi-Phase Implementation Plan
 
-**Version**: 1.0.0
+**Version**: 1.1.0
 **Created**: 2026-01-11
-**Participants**: Claude (Web), Gemini (Mobile), Codex (Mobile)
+**Updated**: 2026-01-11 (Codex + Gemini feedback integrated)
+**Participants**: Claude (Web + Mobile), Gemini (Web + Mobile), Codex (Web + Mobile)
 
 ---
 
@@ -53,18 +54,21 @@ This document outlines the multi-phase plan to unify three independent Japanese 
 
 ### Integration Status
 
-| Team | Repository | Submodule Added | Adapter Tested | Status |
-|------|-----------|-----------------|----------------|--------|
-| Claude | https://github.com/allenlu2009/Japanese-Learning | ⏳ Pending | ⏳ Pending | ✅ Ready |
-| Gemini | ? | ⏳ Pending | ⏳ Pending | ✅ Ready |
-| Codex | ? | ⏳ Pending | ✅ Complete | ✅ Ready |
+| Team | Platform | Repository | Submodule Added | Adapter Tested | Export Done | Status |
+|------|----------|-----------|-----------------|----------------|-------------|--------|
+| Claude | Web | https://github.com/allenlu2009/Japanese-Learning | ⏳ Pending | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
+| Claude | Mobile | https://github.com/allenlu2009/japanese-mobile-claude | ⏳ Pending | ⏳ Pending | ⏳ Pending | ✅ Phase 1 Complete |
+| Gemini | Web | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Phase 1 Complete, 50% Phase 2 |
+| Gemini | Mobile | TBD | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Phase 1 Complete, 50% Phase 2 |
+| Codex | Web | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete |
+| Codex | Mobile | TBD | ✅ Complete | ✅ Complete | ⏳ Pending | ✅ Phase 1 Complete |
 
 ---
 
-## Phase 2: Export/Import Implementation (⏳ NEXT)
+## Phase 2: Export/Import Implementation (🔄 IN PROGRESS)
 
 **Timeline**: Week 2-3
-**Status**: ⏳ Starting Now
+**Status**: 🔄 IN PROGRESS (Gemini 50% complete with export done)
 
 ### Objectives
 
@@ -141,9 +145,10 @@ This document outlines the multi-phase plan to unify three independent Japanese 
    ```
 
 3. **Duplicate Handling**
-   - Check timestamp + testType for duplicates
-   - Options: Skip, Overwrite, or Merge
-   - Show user how many duplicates found
+   - **Primary**: Use test ID for deduplication (unique identifier)
+   - **Secondary**: Warn on same timestamp + testType combination
+   - Options: Skip duplicates, Overwrite existing, or Merge
+   - Show user how many duplicates found and skipped
 
 #### Task 2.3: UI Integration
 
@@ -314,6 +319,15 @@ This document outlines the multi-phase plan to unify three independent Japanese 
 ---
 
 ## Version History
+
+### 1.1.0 (2026-01-11)
+**Updates based on Codex and Gemini feedback**:
+- ✅ Corrected participants to include all platforms (Web + Mobile for all teams)
+- ✅ Updated Phase 1 integration status: Codex and Gemini complete with submodules
+- ✅ Noted Gemini 50% complete on Phase 2 (export functionality done)
+- ✅ Updated duplicate handling: ID-based as primary, timestamp+testType as secondary
+- ✅ Confirmed N4 kanji count: 166 (matches dataset validation)
+- ✅ Noted Codex Web implementation uses shared datasets
 
 ### 1.0.0 (2026-01-11)
 - Initial plan created
