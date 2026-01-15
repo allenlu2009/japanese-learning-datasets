@@ -200,7 +200,30 @@ This repository is maintained collaboratively by three AI implementations:
 | Vocab N5 | 718 | 718 | ✅ |
 | Vocab N4 | 668 | 668 | ✅ |
 
+## 📋 Export/Import Schema
+
+For cross-platform data portability, we use **Universal Export Schema v1.0**.
+
+**Quick Links**:
+- **[Schema v1.0 Documentation](SCHEMA_V1.md)** - Complete specification
+- **[Quick Reference](SCHEMA_QUICK_REFERENCE.md)** - Field checklist and examples
+- **[TypeScript Types](schema/export-schema.ts)** - Official type definitions
+- **[Adapters](schema/examples/)** - Implementation examples
+
+**Key Features**:
+- Flat structure with top-level `tests` and `attempts` arrays
+- ID-based linking between tests and character attempts
+- ISO 8601 timestamps throughout
+- Validated by Claude, Gemini, and Codex
+
 ## 🔄 Version History
+
+### 1.1.0 (2026-01-15)
+
+- ✅ Finalized Universal Export Schema v1.0
+- ✅ Added comprehensive schema documentation
+- ✅ Confirmed by all three implementations
+- ✅ Export/import functionality verified working
 
 ### 1.0.0 (2026-01-11)
 
