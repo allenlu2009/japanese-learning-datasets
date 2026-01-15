@@ -6,6 +6,8 @@
 
 ## Minimal Valid Export
 
+Empty export (no test data, but valid schema):
+
 ```json
 {
   "version": "1.0",
@@ -19,6 +21,8 @@
   }
 }
 ```
+
+**Note**: Empty arrays `[]` and empty settings object `{}` are valid. Only `meta.exportedBy` and `meta.platform` are required within meta.
 
 ---
 
@@ -66,10 +70,10 @@
 ### Top Level (All Required)
 - [ ] `version` = `"1.0"` (string, exact match)
 - [ ] `exportedAt` (ISO 8601 string)
-- [ ] `tests` (array)
-- [ ] `attempts` (array)
-- [ ] `settings` (object)
-- [ ] `meta` (object)
+- [ ] `tests` (array, can be empty `[]`)
+- [ ] `attempts` (array, can be empty `[]`)
+- [ ] `settings` (object, can be empty `{}`)
+- [ ] `meta` (object with required fields)
 
 ### Each Test Record
 - [ ] `id` (string, unique)
@@ -223,6 +227,8 @@ const testId = uuidv4();  // "e20864fa-831c-4513-b38f-5f0c766d02ae"
 
 ## Timestamp Format
 
+**In Export Files**: MUST be ISO 8601 strings
+
 **Valid ISO 8601 formats:**
 ```
 2026-01-15T15:41:16.332Z     ✅ With milliseconds
@@ -230,7 +236,9 @@ const testId = uuidv4();  // "e20864fa-831c-4513-b38f-5f0c766d02ae"
 2026-01-15T15:41:16+00:00    ✅ With timezone
 ```
 
-**Convert to ISO 8601:**
+**Internal Storage**: Apps can use epoch integers internally (e.g., SQLite), but MUST convert to ISO 8601 for export.
+
+**Convert to ISO 8601 for export:**
 ```javascript
 // From Date object
 new Date().toISOString()
@@ -241,6 +249,17 @@ new Date(1736956876332).toISOString()
 // From date string
 new Date('2026-01-15 10:00:00').toISOString()
 ```
+
+**Convert from ISO 8601 on import:**
+```javascript
+// To epoch (milliseconds)
+new Date(isoString).getTime()
+
+// To Date object
+new Date(isoString)
+```
+
+**Important**: Only validate export file format. Don't validate internal storage - adapters handle conversion.
 
 ---
 

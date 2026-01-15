@@ -88,6 +88,8 @@ interface CharacterAttemptRecord {
 
 User preferences and application settings.
 
+**Required**: Object must be present, but can be empty `{}`
+
 ```typescript
 interface SettingsObject {
   romajiSystem?: 'hepburn' | 'kunrei' | 'nihon';
@@ -100,17 +102,23 @@ interface SettingsObject {
 }
 ```
 
+**Note**: An empty object `{}` is valid. Implementations that don't track settings can export an empty object. Imports must accept empty settings objects.
+
 ### Meta Object
 
 Metadata about the export.
 
+**Required**: Object must be present with `exportedBy` and `platform` fields
+
 ```typescript
 interface MetaObject {
-  exportedBy: 'claude' | 'gemini' | 'codex';
-  platform: 'web' | 'mobile';
-  [key: string]: unknown;  // Extensible for additional metadata
+  exportedBy: 'claude' | 'gemini' | 'codex';  // Required
+  platform: 'web' | 'mobile';                  // Required
+  [key: string]: unknown;                      // Optional: Additional metadata
 }
 ```
+
+**Note**: While `exportedBy` and `platform` are required, additional fields are optional. Minimal valid meta: `{"exportedBy": "claude", "platform": "web"}`
 
 ---
 
@@ -185,10 +193,10 @@ interface MetaObject {
 **Top Level (all required):**
 - `version` (must be `"1.0"`)
 - `exportedAt` (ISO 8601 string)
-- `tests` (array, can be empty)
-- `attempts` (array, can be empty)
-- `settings` (object)
-- `meta` (object)
+- `tests` (array, can be empty `[]`)
+- `attempts` (array, can be empty `[]`)
+- `settings` (object, can be empty `{}`)
+- `meta` (object with required fields, see below)
 
 **TestRecord (all required):**
 - `id` (string)
@@ -218,13 +226,33 @@ interface MetaObject {
 
 ### Timestamp Format
 
-All timestamps must be valid ISO 8601 strings:
+**Export Format**: All timestamps in export files MUST be ISO 8601 strings
+
 ```
-2026-01-15T15:41:16.332Z  ✅ Valid
-2026-01-15T15:41:16Z      ✅ Valid
+2026-01-15T15:41:16.332Z  ✅ Valid (ISO 8601 with milliseconds)
+2026-01-15T15:41:16Z      ✅ Valid (ISO 8601 without milliseconds)
+2026-01-15T15:41:16+00:00 ✅ Valid (ISO 8601 with timezone)
 2026-01-15 15:41:16       ❌ Invalid (not ISO 8601)
 1736956876332             ❌ Invalid (epoch integer, not string)
 ```
+
+**Internal Storage**: Implementations may use different timestamp formats internally (e.g., epoch integers in SQLite) but MUST convert to ISO 8601 strings during export.
+
+**Import Handling**: When importing, implementations should:
+1. Validate that timestamps are ISO 8601 strings
+2. Convert to internal format if needed (e.g., ISO → epoch for SQLite)
+3. Preserve precision (milliseconds) if supported
+
+**Example Conversion**:
+```typescript
+// Export: Convert epoch → ISO 8601
+const isoString = new Date(epochMillis).toISOString();
+
+// Import: Convert ISO 8601 → epoch
+const epochMillis = new Date(isoString).getTime();
+```
+
+**Note**: Do not validate internal storage format - only validate export file format. Adapters handle the conversion.
 
 ### Score Validation
 
