@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-11",
+  "lastUpdated": "2026-01-16",
   "datasets": {
     "kana": {
       "hiragana": {
@@ -26,6 +26,11 @@
       },
       "n4": {
         "itemCount": 166
+      },
+      "n3": {
+        "itemCount": 367,
+        "source": "davidluzgouveia/kanji-data",
+        "verified": true
       }
     },
     "vocabulary": {
@@ -34,6 +39,11 @@
       },
       "n4": {
         "itemCount": 668
+      },
+      "n3": {
+        "itemCount": 2139,
+        "source": "elzup/jlpt-word-list",
+        "verified": true
       }
     }
   },
@@ -53,6 +63,10 @@
       "Standardized field naming to 'romaji' (correct English spelling)"
     ]
   },
-  "contributors": ["gemini", "claude", "codex"],
+  "contributors": [
+    "gemini",
+    "claude",
+    "codex"
+  ],
   "license": "MIT"
 }

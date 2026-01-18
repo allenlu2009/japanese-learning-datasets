@@ -157,8 +157,10 @@ validateKana('hiragana');
 validateKana('katakana');
 validateKanji('n5', 80);
 validateKanji('n4', 166);
+validateKanji('n3', 367);
 validateVocabulary('n5', 718);
 validateVocabulary('n4', 668);
+validateVocabulary('n3', 2139);
 
 console.log('\n📊 Validation Summary:');
 console.log(`   Errors: ${errors}`);
