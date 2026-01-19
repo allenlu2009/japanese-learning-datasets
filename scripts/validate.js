@@ -158,9 +158,13 @@ validateKana('katakana');
 validateKanji('n5', 80);
 validateKanji('n4', 166);
 validateKanji('n3', 367);
+validateKanji('n2', 367);
+validateKanji('n1', 1232);
 validateVocabulary('n5', 718);
 validateVocabulary('n4', 668);
 validateVocabulary('n3', 2139);
+validateVocabulary('n2', 1748);
+validateVocabulary('n1', 2699);
 
 console.log('\n📊 Validation Summary:');
 console.log(`   Errors: ${errors}`);

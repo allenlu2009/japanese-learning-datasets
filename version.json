@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-16",
+  "lastUpdated": "2026-01-18",
   "datasets": {
     "kana": {
       "hiragana": {
@@ -31,6 +31,16 @@
         "itemCount": 367,
         "source": "davidluzgouveia/kanji-data",
         "verified": true
+      },
+      "n2": {
+        "itemCount": 367,
+        "source": "davidluzgouveia/kanji-data",
+        "verified": true
+      },
+      "n1": {
+        "itemCount": 1232,
+        "source": "davidluzgouveia/kanji-data",
+        "verified": true
       }
     },
     "vocabulary": {
@@ -42,6 +52,16 @@
       },
       "n3": {
         "itemCount": 2139,
+        "source": "elzup/jlpt-word-list",
+        "verified": true
+      },
+      "n2": {
+        "itemCount": 1748,
+        "source": "elzup/jlpt-word-list",
+        "verified": true
+      },
+      "n1": {
+        "itemCount": 2699,
         "source": "elzup/jlpt-word-list",
         "verified": true
       }
