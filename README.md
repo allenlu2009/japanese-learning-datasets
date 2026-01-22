@@ -137,24 +137,3 @@ console.log(n3Words[0]);
   ]
 }
 ```
-
-## 🔑 Field Naming Convention: romaji vs romanji
-
-**IMPORTANT**: This repository uses **"romaji"** (correct English spelling) in all datasets.
-
-### For Applications Using "romanji" Internally
-
-If your application uses `romanji` in its internal data structures, use an adapter:
-
-```typescript
-// Adapter for backward compatibility
-function importKana(publicData: typeof hiraganaData) {
-  return publicData.characters.map(char => ({
-    ...char,
-    romanji: char.romaji, // Map romaji → romanji
-    romaji: undefined     // Remove romaji field
-  }));
-}
-```
-
-See `CONVENTIONS.md` for detailed guidance.
