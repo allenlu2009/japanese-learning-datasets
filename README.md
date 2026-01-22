@@ -4,9 +4,11 @@ Unified, validated datasets for Japanese language learning applications. These d
 
 ## 📦 Contents
 
+The repository now covers the **full JLPT spectrum (N5 through N1)**.
+
 - **Kana** (208 characters): Hiragana and Katakana with romaji
-- **Kanji** (246 characters): JLPT N5 and N4 kanji with meanings and readings
-- **Vocabulary** (1,386 words): JLPT N5 and N4 vocabulary with romaji and meanings
+- **Kanji** (2,212 characters): JLPT N5-N1 kanji with meanings and readings
+- **Vocabulary** (7,972 words): JLPT N5-N1 vocabulary with romaji and meanings
 
 ## 🗂️ Repository Structure
 
@@ -17,18 +19,22 @@ japanese-learning-datasets/
 │   └── katakana.json (104 characters)
 ├── kanji/
 │   ├── n5.json (80 kanji)
-│   └── n4.json (166 kanji)
+│   ├── n4.json (166 kanji)
+│   ├── n3.json (367 kanji)
+│   ├── n2.json (367 kanji)
+│   └── n1.json (1,232 kanji)
 ├── vocabulary/
 │   ├── n5.json (718 words)
-│   └── n4.json (668 words)
+│   ├── n4.json (668 words)
+│   ├── n3.json (2,139 words)
+│   ├── n2.json (1,748 words)
+│   └── n1.json (2,699 words)
 ├── schema/
 │   ├── export-schema.ts (Universal export format for user data)
 │   └── examples/ (Integration examples)
 ├── scripts/
-│   ├── convert-kana.js (Kana conversion script)
-│   ├── convert-vocab.js (Vocabulary conversion script)
-│   ├── add-kanji-metadata.js (Kanji metadata script)
-│   └── validate.js (Dataset validation)
+│   ├── validate.js (Dataset validation)
+│   └── convert-*.js (Conversion utilities)
 ├── version.json (Dataset metadata and versioning)
 ├── CONVENTIONS.md (Field naming conventions)
 └── README.md (this file)
@@ -50,7 +56,7 @@ git submodule update --init --recursive
 
 ```typescript
 import hiraganaData from './data/datasets/kana/hiragana.json';
-import n5Vocab from './data/datasets/vocabulary/n5.json';
+import n3Vocab from './data/datasets/vocabulary/n3.json';
 
 // Access kana characters
 const hiraganaChars = hiraganaData.characters; // 104 characters
@@ -58,9 +64,9 @@ console.log(hiraganaChars[0]);
 // { character: "あ", romaji: ["a"], type: "basic" }
 
 // Access vocabulary
-const n5Words = n5Vocab.words; // 718 words
-console.log(n5Words[0]);
-// { word: "日", kana: "ひ", romaji: ["hi"], meaning: "day; sun", jlptLevel: "N5" }
+const n3Words = n3Vocab.words;
+console.log(n3Words[0]);
+// { word: "作法", kana: "さほう", romaji: ["sahou"], meaning: "manners", jlptLevel: "N3" }
 ```
 
 ## 📋 Data Format
@@ -93,9 +99,9 @@ console.log(n5Words[0]);
   "meta": {
     "version": "1.0.0",
     "type": "kanji",
-    "jlptLevel": "N5",
-    "lastUpdated": "2026-01-11",
-    "itemCount": 80
+    "jlptLevel": "N3",
+    "lastUpdated": "2026-01-18",
+    "itemCount": 367
   },
   "kanji": [
     {
@@ -103,7 +109,7 @@ console.log(n5Words[0]);
       "meanings": ["day", "sun", "Japan"],
       "onyomi": ["nichi", "jitsu"],
       "kunyomi": ["hi", "ka"],
-      "jlptLevel": "N5"
+      "jlptLevel": "N3"
     }
   ]
 }
@@ -116,9 +122,9 @@ console.log(n5Words[0]);
   "meta": {
     "version": "1.0.0",
     "type": "vocabulary",
-    "jlptLevel": "N5",
-    "lastUpdated": "2026-01-11",
-    "itemCount": 718
+    "jlptLevel": "N3",
+    "lastUpdated": "2026-01-18",
+    "itemCount": 2139
   },
   "words": [
     {
@@ -126,7 +132,7 @@ console.log(n5Words[0]);
       "kana": "おなか",
       "romaji": ["onaka"],
       "meaning": "stomach",
-      "jlptLevel": "N5"
+      "jlptLevel": "N3"
     }
   ]
 }
@@ -149,101 +155,6 @@ function importKana(publicData: typeof hiraganaData) {
     romaji: undefined     // Remove romaji field
   }));
 }
-
-// Usage
-const internalData = importKana(hiraganaData);
-// Now uses: { character: "あ", romanji: ["a"], type: "basic" }
 ```
 
-See `CONVENTIONS.md` for detailed mapping examples.
-
-## ✅ Data Quality
-
-All datasets have been:
-
-- ✅ Validated for consistency and completeness
-- ✅ Corrected for doubled consonant errors (gemini/claude collaboration)
-- ✅ Verified against JLPT official sources
-- ✅ Field names standardized to "romaji"
-
-Run validation:
-
-```bash
-npm run validate
-# or
-node scripts/validate.js
-```
-
-## 🤝 Contributing
-
-This repository is maintained collaboratively by three AI implementations:
-
-- **Claude**: Web application (`/projects/japanese`)
-- **Gemini**: Mobile application (`/projects/japanese-mobile-gemini`)
-- **Codex**: Mobile application (`/projects/japanese-mobile-codex`)
-
-### Update Process
-
-1. Make changes to datasets in your local application
-2. Run validation: `node scripts/validate.js`
-3. Submit pull request with detailed change description
-4. Requires approval from at least one other implementation
-
-## 📊 Dataset Verification
-
-| Dataset | Expected Count | Actual Count | Status |
-|---------|----------------|--------------|--------|
-| Hiragana | 104 | 104 | ✅ |
-| Katakana | 104 | 104 | ✅ |
-| Kanji N5 | 80 | 80 | ✅ |
-| Kanji N4 | 166 | 166 | ✅ |
-| Vocab N5 | 718 | 718 | ✅ |
-| Vocab N4 | 668 | 668 | ✅ |
-
-## 📋 Export/Import Schema
-
-For cross-platform data portability, we use **Universal Export Schema v1.0**.
-
-**Quick Links**:
-- **[Schema v1.0 Documentation](SCHEMA_V1.md)** - Complete specification
-- **[Quick Reference](SCHEMA_QUICK_REFERENCE.md)** - Field checklist and examples
-- **[TypeScript Types](schema/export-schema.ts)** - Official type definitions
-- **[Adapters](schema/examples/)** - Implementation examples
-
-**Key Features**:
-- Flat structure with top-level `tests` and `attempts` arrays
-- ID-based linking between tests and character attempts
-- ISO 8601 timestamps throughout
-- Validated by Claude, Gemini, and Codex
-
-## 🔄 Version History
-
-### 1.1.0 (2026-01-15)
-
-- ✅ Finalized Universal Export Schema v1.0
-- ✅ Added comprehensive schema documentation
-- ✅ Confirmed by all three implementations
-- ✅ Export/import functionality verified working
-
-### 1.0.0 (2026-01-11)
-
-- Initial release with validated datasets
-- Fixed doubled consonants in vocabulary
-- Fixed triple-n errors
-- Standardized field naming to "romaji"
-- Added comprehensive metadata
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
-## 🙋 Support
-
-For issues or questions:
-- Open an issue in this repository
-- Contact the maintaining implementations
-
----
-
-**Last Updated**: 2026-01-11
-**Maintained by**: Claude, Gemini, and Codex AI implementations
+See `CONVENTIONS.md` for detailed guidance.
